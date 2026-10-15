@@ -1,0 +1,169 @@
+// src/data/provincias.js
+// Cada provincia es un objeto con la misma forma. Para sumar otra,
+// copiá "salta", cambiá los textos y poné sus imágenes en
+// public/provincias/<slug>/
+
+export const salta = {
+  slug: "salta",
+  nombre: "Salta",
+  lema: "Quebradas de colores, viñedos a más de 1.600 metros y una ciudad que se vive de peña en peña.",
+  hero: "/provincias/salta/hero.webp",
+
+  datos: [
+    { etiqueta: "Capital", valor: "Salta" },
+    { etiqueta: "Desde Buenos Aires", valor: "Vuelo de unas 2 horas" },
+    { etiqueta: "Altura de la capital", valor: "Unos 1.200 m" },
+    { etiqueta: "Mejor época", valor: "Mayo a septiembre" },
+  ],
+
+  historia: {
+    titulo: "Una frontera entre los Andes y el Chaco",
+    intro:
+      "Salta fue paso obligado entre el Alto Perú y el Río de la Plata. Por eso en un mismo viaje aparecen ruinas preincaicas, una ciudad colonial y el recuerdo de los gauchos que defendieron el norte durante la independencia.",
+    hitos: [
+      {
+        fecha: "Antes de 1500",
+        titulo: "Pueblos originarios",
+        texto:
+          "Diaguitas calchaquíes y otros pueblos habitaron valles y quebradas. En Santa Rosa de Tastil todavía se pueden recorrer las ruinas de un pueblo de piedra de los siglos XIV y XV.",
+      },
+      {
+        fecha: "Siglo XV",
+        titulo: "El Inca llega al noroeste",
+        texto:
+          "El Tawantinsuyu extiende su red de caminos, el Qhapaq Ñan, por la región. Algunos tramos todavía se conservan.",
+      },
+      {
+        fecha: "1582",
+        titulo: "Fundación de Salta",
+        texto:
+          "Hernando de Lerma funda la ciudad en el Valle de Lerma, como posta entre el Alto Perú y Buenos Aires.",
+      },
+      {
+        fecha: "1810–1821",
+        titulo: "Güemes y los gauchos",
+        texto:
+          "Martín Miguel de Güemes organiza a los gauchos para frenar los avances realistas desde el norte. Muere en 1821, herido en combate.",
+      },
+      {
+        fecha: "1999",
+        titulo: "Los niños de Llullaillaco",
+        texto:
+          "En la cima del volcán Llullaillaco, a 6.739 metros, se hallaron tres niños incaicos momificados. Hoy se conservan y estudian en el Museo de Arqueología de Alta Montaña (MAAM), en la capital.",
+      },
+    ],
+  },
+
+  lugares: [
+    {
+      nombre: "Quebrada de las Conchas",
+      zona: "Camino a Cafayate, Ruta 68",
+      descripcion:
+        "Un cañón de paredes rojas que se recorre en auto con paradas en la Garganta del Diablo, el Anfiteatro y los Castillos.",
+      imagen: "/provincias/salta/conchas.webp",
+      color: "#a8442a",
+    },
+    {
+      nombre: "Cafayate",
+      zona: "Valles Calchaquíes, a unos 190 km de la capital",
+      descripcion:
+        "Bodegas a más de 1.600 metros de altura donde nace el Torrontés, el blanco más característico del noroeste.",
+      imagen: "/provincias/salta/cafayate.webp",
+      color: "#8c3b4a",
+    },
+    {
+      nombre: "Salinas Grandes",
+      zona: "Puna, compartidas con Jujuy",
+      descripcion:
+        "Un desierto blanco a más de 3.400 metros. Se camina sobre la sal y se ven las piletas donde se extrae.",
+      imagen: "/provincias/salta/salinas.webp",
+      color: "#23305e",
+    },
+    {
+      nombre: "Cachi",
+      zona: "Ruta 40, Valles Calchaquíes",
+      descripcion:
+        "Calles de piedra y casas de adobe al pie de cerros nevados. En el camino aparece el Parque Nacional Los Cardones.",
+      imagen: "/provincias/salta/cachi.webp",
+      color: "#e3a53b",
+    },
+    {
+      nombre: "Salta capital",
+      zona: "Casco histórico",
+      descripcion:
+        "La Plaza 9 de Julio, el Cabildo, la iglesia San Francisco y el teleférico al Cerro San Bernardo, con vista a todo el valle.",
+      imagen: "/provincias/salta/ciudad.webp",
+      color: "#d98b6a",
+    },
+  ],
+
+  sabores: {
+    titulo: "Qué comer y beber",
+    intro: "La cocina salteña se hace con maíz, carne, comino y mucho ají.",
+    items: [
+      {
+        nombre: "Empanadas salteñas",
+        texto:
+          "Carne cortada a cuchillo, papa, cebolla de verdeo y comino. Fritas o al horno, siempre jugosas.",
+      },
+      {
+        nombre: "Locro",
+        texto: "Guiso de maíz, porotos y carne. Es el plato de los días patrios.",
+      },
+      {
+        nombre: "Humitas y tamales",
+        texto: "Maíz tierno o molido envuelto en chala y cocido al vapor.",
+      },
+      {
+        nombre: "Cabrito",
+        texto: "Asado o al horno de barro, típico de los valles.",
+      },
+      {
+        nombre: "Torrontés",
+        texto:
+          "El vino blanco aromático de Cafayate. Pedilo bien frío con empanadas.",
+      },
+    ],
+  },
+
+  cuando: {
+    titulo: "Cuándo ir",
+    epocas: [
+      {
+        nombre: "Mayo a septiembre",
+        texto:
+          "Días soleados y secos, noches frías. La mejor época para recorrer quebradas y valles.",
+      },
+      {
+        nombre: "Diciembre a marzo",
+        texto:
+          "Temporada de lluvias, sobre todo por la tarde. Todo se pone verde, pero algunos caminos de montaña pueden cortarse.",
+      },
+      {
+        nombre: "Mediados de septiembre",
+        texto:
+          "Fiesta del Milagro: procesiones en honor al Señor y la Virgen del Milagro en el centro de la ciudad.",
+      },
+    ],
+    consejo:
+      "Salinas Grandes y la Ruta 51 superan los 3.400 metros. Llevá agua y abrigo, y andá despacio el primer día.",
+  },
+
+  mapa: {
+    consulta: "Salta, Argentina",
+    rutas: [
+      { nombre: "Ruta 68", texto: "De la capital a Cafayate por la Quebrada de las Conchas." },
+      { nombre: "Ruta 33 y Ruta 40", texto: "A Cachi por la Cuesta del Obispo y el Parque Los Cardones." },
+      { nombre: "Ruta 51", texto: "Hacia Santa Rosa de Tastil y la Puna." },
+    ],
+  },
+
+  asistente: {
+    titulo: "Armá tu viaje por Salta",
+    texto:
+      "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido.",
+  },
+};
+
+// Para el router: provincias[slug]
+export const provincias = { salta };

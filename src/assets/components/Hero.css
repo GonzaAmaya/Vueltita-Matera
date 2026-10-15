@@ -1,0 +1,89 @@
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.fondo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.hero-content{
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 4rem;
+    padding-top: 80px;
+    max-width: 800px;
+    color: white;
+}
+
+.hero-content span{
+    display: flex;
+    align-items: center;
+    margin: 0 0 70px 180px;
+    font-size: 4vh;
+}
+
+.hero-content h1{
+    font-size: 4vh;
+}
+
+.hero-content p{
+    font-size: 22px;
+}
+
+.hero-botones { 
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.btn-hero {
+    margin-top: 70px;
+    padding: 0.9rem 1.75rem;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+
+.btn-hero-principal {
+    background-color: white;
+    color: #0d1b2a;
+}
+
+.btn-hero-principal:hover {
+    background-color: #d2691e;
+    color: white;
+}
+
+.btn-hero-secundario {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+.btn-hero-secundario:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
