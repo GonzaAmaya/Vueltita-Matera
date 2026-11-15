@@ -1,0 +1,157 @@
+{
+  "slug": "san-juan",
+  "nombre": "San Juan",
+  "lema": "El Valle de la Luna, cielos perfectos para mirar estrellas y viñedos de Syrah.",
+  "hero": "/provincias/san-juan/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "San Juan"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Patrimonio UNESCO",
+      "valor": "Ischigualasto"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Marzo a mayo y septiembre a noviembre"
+    }
+  ],
+  "historia": {
+    "titulo": "Tierra de Sarmiento",
+    "intro": "San Juan es desierto, cordillera y oasis de viñedos. Su capital se reconstruyó después de un terremoto que cambió la historia del país.",
+    "hitos": [
+      {
+        "fecha": "Hace 230 millones de años",
+        "titulo": "Los primeros dinosaurios",
+        "texto": "En Ischigualasto se hallaron algunos de los dinosaurios más antiguos conocidos."
+      },
+      {
+        "fecha": "1562",
+        "titulo": "Fundación de San Juan",
+        "texto": "Juan Jufré funda San Juan de la Frontera."
+      },
+      {
+        "fecha": "1811",
+        "titulo": "Nace Sarmiento",
+        "texto": "Domingo Faustino Sarmiento nace en San Juan. Su casa natal es museo."
+      },
+      {
+        "fecha": "1944",
+        "titulo": "El terremoto",
+        "texto": "Un terremoto destruye la ciudad. La reconstrucción la vuelve moderna y de calles anchas."
+      },
+      {
+        "fecha": "2000",
+        "titulo": "Patrimonio de la Humanidad",
+        "texto": "Ischigualasto y Talampaya son declarados Patrimonio Natural de la Humanidad."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Ischigualasto",
+      "zona": "Valle Fértil",
+      "descripcion": "El Valle de la Luna: formaciones como El Submarino y la Cancha de Bochas.",
+      "imagen": "/provincias/san-juan/ischigualasto.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Barreal y Calingasta",
+      "zona": "Oeste, al pie de la cordillera",
+      "descripcion": "La Pampa del Leoncito para carrovelismo y el observatorio de El Leoncito.",
+      "imagen": "/provincias/san-juan/barreal-y-calingasta.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Ruta del vino",
+      "zona": "Valle de Tulum",
+      "descripcion": "Bodegas grandes y pequeñas a pocos minutos de la capital.",
+      "imagen": "/provincias/san-juan/ruta-del-vino.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Dique Cuesta del Viento",
+      "zona": "Rodeo",
+      "descripcion": "Un lago con viento constante, famoso entre los windsurfistas.",
+      "imagen": "/provincias/san-juan/dique-cuesta-del-viento.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Difunta Correa",
+      "zona": "Vallecito",
+      "descripcion": "Santuario popular adonde llegan miles de peregrinos.",
+      "imagen": "/provincias/san-juan/difunta-correa.webp",
+      "color": "#a8442a"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Vino, uvas y cocina criolla.",
+    "items": [
+      {
+        "nombre": "Syrah",
+        "texto": "La cepa que mejor representa a San Juan."
+      },
+      {
+        "nombre": "Pasas de uva",
+        "texto": "San Juan es gran productora de uva de mesa y pasas."
+      },
+      {
+        "nombre": "Chivito",
+        "texto": "A la parrilla, en los departamentos del oeste."
+      },
+      {
+        "nombre": "Empanadas sanjuaninas",
+        "texto": "De carne, con aceitunas y huevo."
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "texto": "Olivares en el valle de Tulum."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Marzo a mayo",
+        "texto": "Vendimia y temperaturas agradables para Ischigualasto."
+      },
+      {
+        "nombre": "Septiembre a noviembre",
+        "texto": "Primavera templada, buena para el oeste y los diques."
+      },
+      {
+        "nombre": "Diciembre a febrero",
+        "texto": "Mucho calor en los valles. Puede soplar el viento Zonda."
+      }
+    ],
+    "consejo": "Ischigualasto se recorre en caravana con guía. Hay recorridos especiales en noches de luna llena."
+  },
+  "mapa": {
+    "consulta": "San Juan, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 40",
+        "texto": "Atraviesa la provincia de sur a norte."
+      },
+      {
+        "nombre": "Ruta 150",
+        "texto": "Hacia Ischigualasto y Rodeo."
+      },
+      {
+        "nombre": "Ruta 149",
+        "texto": "Hacia Calingasta y Barreal."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por San Juan",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

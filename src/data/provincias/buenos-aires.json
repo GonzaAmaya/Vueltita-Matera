@@ -1,0 +1,157 @@
+{
+  "slug": "buenos-aires",
+  "nombre": "Buenos Aires",
+  "lema": "Playas atlánticas, sierras, pueblos de campo y la tradición gaucha a pocas horas de la capital.",
+  "hero": "/provincias/buenos-aires/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "La Plata"
+    },
+    {
+      "etiqueta": "Desde la Ciudad de Buenos Aires",
+      "valor": "Mar del Plata, a unos 400 km"
+    },
+    {
+      "etiqueta": "Destino de verano",
+      "valor": "La Costa Atlántica"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Diciembre a marzo para la costa"
+    }
+  ],
+  "historia": {
+    "titulo": "La provincia de la pampa y el mar",
+    "intro": "La provincia más poblada del país combina la llanura pampeana, estancias, sierras antiguas y cientos de kilómetros de playas.",
+    "hitos": [
+      {
+        "fecha": "Antes de 1500",
+        "titulo": "Querandíes",
+        "texto": "Cazadores nómades recorren la llanura pampeana."
+      },
+      {
+        "fecha": "Siglo XIX",
+        "titulo": "Estancias y gauchos",
+        "texto": "La pampa se llena de estancias ganaderas y nace la figura del gaucho."
+      },
+      {
+        "fecha": "1874",
+        "titulo": "Fundación de Mar del Plata",
+        "texto": "Patricio Peralta Ramos funda el pueblo que luego sería la gran ciudad balnearia del país."
+      },
+      {
+        "fecha": "1882",
+        "titulo": "Fundación de La Plata",
+        "texto": "Dardo Rocha funda una capital planificada, con diagonales y plazas cada seis cuadras."
+      },
+      {
+        "fecha": "1939",
+        "titulo": "Día de la Tradición",
+        "texto": "Se instituye el 10 de noviembre, natalicio de José Hernández, autor del Martín Fierro."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Mar del Plata",
+      "zona": "Costa Atlántica",
+      "descripcion": "La Rambla, los lobos marinos del puerto y playas para todos los gustos.",
+      "imagen": "/provincias/buenos-aires/mar-del-plata.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "San Antonio de Areco",
+      "zona": "Norte, a unos 110 km de la Capital",
+      "descripcion": "Pueblo de tradición gaucha, platería y pulperías.",
+      "imagen": "/provincias/buenos-aires/san-antonio-de-areco.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Delta del Tigre",
+      "zona": "Norte del conurbano",
+      "descripcion": "Islas, canales y lanchas colectivas entre casas sobre el agua.",
+      "imagen": "/provincias/buenos-aires/delta-del-tigre.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Tandil",
+      "zona": "Centro de la provincia",
+      "descripcion": "Sierras, el Cerro La Movediza y picadas de salames y quesos.",
+      "imagen": "/provincias/buenos-aires/tandil.webp",
+      "color": "#6b7b3a"
+    },
+    {
+      "nombre": "Sierra de la Ventana",
+      "zona": "Sudoeste",
+      "descripcion": "El Cerro Tres Picos, el más alto de la provincia, y el cerro con su ventana de piedra.",
+      "imagen": "/provincias/buenos-aires/sierra-de-la-ventana.webp",
+      "color": "#a8442a"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Campo y mar en la misma mesa.",
+    "items": [
+      {
+        "nombre": "Asado de campo",
+        "texto": "A la cruz o a la parrilla, en estancias y pulperías."
+      },
+      {
+        "nombre": "Picada tandilense",
+        "texto": "Salames y quesos de la zona de Tandil."
+      },
+      {
+        "nombre": "Alfajores marplatenses",
+        "texto": "Mar del Plata es la cuna de algunas de las marcas más famosas."
+      },
+      {
+        "nombre": "Rabas y pescados",
+        "texto": "En el puerto de Mar del Plata."
+      },
+      {
+        "nombre": "Dulce de leche",
+        "texto": "Cuenta la leyenda que nació en una estancia bonaerense."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Temporada de playa en la costa. Enero es el mes más lleno."
+      },
+      {
+        "nombre": "Abril a noviembre",
+        "texto": "Sierras, pueblos y estancias con clima templado."
+      },
+      {
+        "nombre": "Noviembre",
+        "texto": "Fiesta de la Tradición en San Antonio de Areco."
+      }
+    ],
+    "consejo": "En enero la Ruta 2 se congestiona: salí temprano o evitá los sábados de recambio."
+  },
+  "mapa": {
+    "consulta": "Provincia de Buenos Aires, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 2",
+        "texto": "La autovía a Mar del Plata."
+      },
+      {
+        "nombre": "Ruta 8",
+        "texto": "Hacia San Antonio de Areco y Pilar."
+      },
+      {
+        "nombre": "Ruta 76",
+        "texto": "Atraviesa las sierras, de Sierra de la Ventana a Tornquist."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Buenos Aires",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

@@ -1,0 +1,116 @@
+.nav {
+  position: fixed;
+  inset: 0 0 auto 0;
+  z-index: 100;
+  height: var(--vm-nav-alto);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 clamp(1rem, 4vw, 2rem);
+  color: #fff;
+  background-color: rgba(20, 20, 20, 0.25);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  transition: height 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.nav.scrolled {
+  height: 60px;
+  background-color: rgba(20, 20, 20, 0.88);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.logo {
+  width: 150px;
+  height: 60px;
+  object-fit: contain;
+  transition: width 0.3s ease, height 0.3s ease;
+}
+
+.nav.scrolled .logo {
+  width: 115px;
+  height: 46px;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.nav-btn {
+  position: relative;
+  display: block;
+  padding: 0.5rem 1rem;
+  font-family: var(--vm-display);
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-btn::after {
+  content: "";
+  position: absolute;
+  left: 1rem;
+  right: 1rem;
+  bottom: 0.25rem;
+  height: 2px;
+  background-color: var(--vm-naranja);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.25s ease;
+}
+
+.nav-btn:hover::after,
+.nav-btn:focus-visible::after {
+  transform: scaleX(1);
+}
+
+.boton-hamburguesa {
+  display: none;
+  width: 44px;
+  height: 44px;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
+@media (max-width: 720px) {
+  .boton-hamburguesa {
+    display: block;
+  }
+
+  .menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: 0.5rem 0 1rem;
+    background: rgba(20, 20, 20, 0.96);
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-8px);
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+  }
+
+  .menu.abierto {
+    visibility: visible;
+    opacity: 1;
+    transform: none;
+  }
+
+  .nav-btn {
+    padding: 0.9rem clamp(1rem, 4vw, 2rem);
+  }
+
+  .nav-btn::after {
+    display: none;
+  }
+}

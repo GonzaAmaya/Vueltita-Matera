@@ -1,0 +1,157 @@
+{
+  "slug": "tucuman",
+  "nombre": "Tucumán",
+  "lema": "El Jardín de la República: la casa donde nació la Argentina, selvas de montaña y valles a más de 2.000 metros.",
+  "hero": "/provincias/tucuman/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "San Miguel de Tucumán"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Tamaño",
+      "valor": "La provincia más chica del país"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Abril a octubre"
+    }
+  ],
+  "historia": {
+    "titulo": "Donde se declaró la independencia",
+    "intro": "Tucumán es corta en kilómetros y larga en historia. En pocas horas se pasa de la ciudad de la independencia a la selva de yungas y a los valles calchaquíes.",
+    "hitos": [
+      {
+        "fecha": "Siglos IX a XVII",
+        "titulo": "Los quilmes",
+        "texto": "El pueblo quilmes construye una ciudad de piedra en los Valles Calchaquíes y resiste a los españoles hasta 1667, cuando es deportado."
+      },
+      {
+        "fecha": "1565",
+        "titulo": "Fundación de San Miguel",
+        "texto": "Diego de Villarroel funda la ciudad en Ibatín. En 1685 se traslada a su lugar actual."
+      },
+      {
+        "fecha": "1812",
+        "titulo": "Batalla de Tucumán",
+        "texto": "El 24 de septiembre, Belgrano desobedece la orden de retirarse y vence al ejército realista."
+      },
+      {
+        "fecha": "1816",
+        "titulo": "Independencia",
+        "texto": "El 9 de julio, en la casa de Francisca Bazán de Laguna, el Congreso declara la independencia."
+      },
+      {
+        "fecha": "Siglo XIX y XX",
+        "titulo": "La provincia del azúcar",
+        "texto": "Los ingenios azucareros transforman la economía y el paisaje de la provincia."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Casa Histórica",
+      "zona": "San Miguel de Tucumán",
+      "descripcion": "La sala donde se firmó la independencia, con un espectáculo de luz y sonido a la noche.",
+      "imagen": "/provincias/tucuman/casa-historica.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Tafí del Valle",
+      "zona": "Valles, a unos 100 km de la capital",
+      "descripcion": "Un valle verde a más de 2.000 metros con lagos, estancias y el Parque de los Menhires.",
+      "imagen": "/provincias/tucuman/tafi-del-valle.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Ruinas de Quilmes",
+      "zona": "Valles Calchaquíes, Ruta 40",
+      "descripcion": "Los restos de la ciudad de piedra del pueblo quilmes, en la ladera de un cerro.",
+      "imagen": "/provincias/tucuman/ruinas-de-quilmes.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Cerro San Javier",
+      "zona": "A unos 25 km de la capital",
+      "descripcion": "Selva de yungas, el Cristo Bendicente y vistas a toda la ciudad. Hay parapente.",
+      "imagen": "/provincias/tucuman/cerro-san-javier.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Amaicha del Valle",
+      "zona": "Valles Calchaquíes",
+      "descripcion": "Comunidad indígena con el Museo Pachamama, cielos limpios y bodegas de altura.",
+      "imagen": "/provincias/tucuman/amaicha-del-valle.webp",
+      "color": "#e3a53b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "En Tucumán se discute en serio cuál es la mejor empanada.",
+    "items": [
+      {
+        "nombre": "Empanada tucumana",
+        "texto": "Carne cortada a cuchillo, al horno de barro. Famaillá hace la Fiesta Nacional de la Empanada."
+      },
+      {
+        "nombre": "Sanguche de milanesa",
+        "texto": "Enorme, con lechuga, tomate y cebolla. Un clásico de la capital."
+      },
+      {
+        "nombre": "Quesillo con miel de caña",
+        "texto": "Queso de Tafí del Valle con miel de caña de azúcar."
+      },
+      {
+        "nombre": "Humita en chala",
+        "texto": "Maíz tierno con queso, envuelto y hervido."
+      },
+      {
+        "nombre": "Vinos de los valles",
+        "texto": "Bodegas de altura en Colalao del Valle y Amaicha."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Abril a octubre",
+        "texto": "Seco y templado. Ideal para la ciudad, los valles y caminar en las yungas."
+      },
+      {
+        "nombre": "Noviembre a marzo",
+        "texto": "Hace calor en la llanura y llueve en la selva. Tafí del Valle es el refugio fresco."
+      },
+      {
+        "nombre": "9 de julio",
+        "texto": "Día de la Independencia: la ciudad se llena de actos y visitantes."
+      }
+    ],
+    "consejo": "La subida a Tafí por la Quebrada de los Sosa tiene curvas y neblina. Manejá de día y con calma."
+  },
+  "mapa": {
+    "consulta": "Tucumán, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 307",
+        "texto": "De la llanura a Tafí del Valle por la Quebrada de los Sosa, y luego a Amaicha."
+      },
+      {
+        "nombre": "Ruta 40",
+        "texto": "Por los Valles Calchaquíes hacia Quilmes y Colalao del Valle."
+      },
+      {
+        "nombre": "Ruta 338",
+        "texto": "De la capital al Cerro San Javier y Raco."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Tucumán",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "santiago-del-estero",
+  "nombre": "Santiago del Estero",
+  "lema": "La Madre de Ciudades: termas, chacarera y el quichua que todavía se habla en el monte.",
+  "hero": "/provincias/santiago-del-estero/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Santiago del Estero"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Fundación",
+      "valor": "1553, la ciudad más antigua del país"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Mayo a septiembre"
+    }
+  ],
+  "historia": {
+    "titulo": "La Madre de Ciudades",
+    "intro": "Desde Santiago del Estero salieron las expediciones que fundaron otras ciudades del norte. Su identidad se escucha en la chacarera y en el quichua santiagueño.",
+    "hitos": [
+      {
+        "fecha": "Antes de 1500",
+        "titulo": "Pueblos del monte",
+        "texto": "Tonocotés, sanavirones y otros pueblos viven junto a los ríos Dulce y Salado."
+      },
+      {
+        "fecha": "1553",
+        "titulo": "Fundación",
+        "texto": "Francisco de Aguirre funda Santiago del Estero, la ciudad más antigua del país que sigue en pie."
+      },
+      {
+        "fecha": "Siglos XVI a XVIII",
+        "titulo": "Madre de Ciudades",
+        "texto": "De aquí salen los fundadores de Tucumán, Córdoba, Salta y otras ciudades."
+      },
+      {
+        "fecha": "Siglo XX",
+        "titulo": "Termas de Río Hondo",
+        "texto": "El pueblo crece alrededor de sus aguas termales y se vuelve un destino de invierno."
+      },
+      {
+        "fecha": "2014",
+        "titulo": "MotoGP",
+        "texto": "El autódromo de Termas de Río Hondo recibe por primera vez el Mundial de Motociclismo."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Termas de Río Hondo",
+      "zona": "A unos 70 km de la capital",
+      "descripcion": "Hoteles con agua termal en cada habitación, el dique frontal y el autódromo.",
+      "imagen": "/provincias/santiago-del-estero/termas-de-rio-hondo.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Santiago capital",
+      "zona": "Centro histórico",
+      "descripcion": "El Centro Cultural del Bicentenario, la catedral y la costanera del río Dulce.",
+      "imagen": "/provincias/santiago-del-estero/santiago-capital.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Parque Nacional Copo",
+      "zona": "Noreste",
+      "descripcion": "Bosque chaqueño con quebrachos, osos hormigueros y tatú carreta.",
+      "imagen": "/provincias/santiago-del-estero/parque-nacional-copo.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Villa Ojo de Agua y Sumampa",
+      "zona": "Sur",
+      "descripcion": "Sierras bajas y el santuario de la Virgen de Sumampa, uno de los más antiguos del país.",
+      "imagen": "/provincias/santiago-del-estero/villa-ojo-de-agua-y-sumampa.webp",
+      "color": "#e3a53b"
+    },
+    {
+      "nombre": "Dique Los Quiroga",
+      "zona": "Cerca de la capital",
+      "descripcion": "Lugar de paseo y pesca a orillas del río Dulce.",
+      "imagen": "/provincias/santiago-del-estero/dique-los-quiroga.webp",
+      "color": "#23305e"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cocina del monte, con harina de maíz y algarroba.",
+    "items": [
+      {
+        "nombre": "Empanadas santiagueñas",
+        "texto": "Jugosas, con carne picada y mucha cebolla."
+      },
+      {
+        "nombre": "Locro",
+        "texto": "El plato de los días patrios y de las peñas."
+      },
+      {
+        "nombre": "Chivito",
+        "texto": "A la parrilla, uno de los orgullos santiagueños."
+      },
+      {
+        "nombre": "Patay y arrope",
+        "texto": "Dulces tradicionales hechos con algarroba."
+      },
+      {
+        "nombre": "Tortilla al rescoldo",
+        "texto": "Pan sencillo cocido entre las brasas."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Mayo a septiembre",
+        "texto": "Días templados y temporada alta en Termas de Río Hondo."
+      },
+      {
+        "nombre": "Octubre a abril",
+        "texto": "Mucho calor, a veces más de 40 grados. Ideal solo para las piletas termales."
+      },
+      {
+        "nombre": "Julio",
+        "texto": "El 25 de julio es el aniversario de la ciudad, con la Marcha de los Bombos."
+      }
+    ],
+    "consejo": "En verano el calor es extremo: salí temprano o al atardecer y tomá mucha agua."
+  },
+  "mapa": {
+    "consulta": "Santiago del Estero, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 9",
+        "texto": "Une la capital con Termas de Río Hondo, en menos de una hora."
+      },
+      {
+        "nombre": "Ruta 34",
+        "texto": "Hacia el norte, rumbo a Salta y Jujuy."
+      },
+      {
+        "nombre": "Ruta 64",
+        "texto": "Hacia Catamarca por el oeste."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Santiago del Estero",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

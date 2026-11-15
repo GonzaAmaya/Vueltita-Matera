@@ -1,0 +1,157 @@
+{
+  "slug": "formosa",
+  "nombre": "Formosa",
+  "lema": "Bañados enormes, aves por todos lados y la tranquilidad del litoral norte.",
+  "hero": "/provincias/formosa/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Formosa"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Humedal",
+      "valor": "Bañado La Estrella"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Abril a septiembre"
+    }
+  ],
+  "historia": {
+    "titulo": "Humedales y pueblos originarios",
+    "intro": "Formosa es naturaleza poco recorrida: bañados, ríos y monte, con comunidades qom, wichí y pilagá que mantienen sus tradiciones.",
+    "hitos": [
+      {
+        "fecha": "Siempre",
+        "titulo": "Pueblos originarios",
+        "texto": "Qom, wichí y pilagá habitan la región y hoy venden artesanías de palma y chaguar."
+      },
+      {
+        "fecha": "1879",
+        "titulo": "Fundación de Formosa",
+        "texto": "Luis Jorge Fontana funda la ciudad a orillas del río Paraguay."
+      },
+      {
+        "fecha": "1951",
+        "titulo": "Parque Nacional Pilcomayo",
+        "texto": "Se crea el parque nacional que protege la laguna Blanca y sus esteros."
+      },
+      {
+        "fecha": "1955",
+        "titulo": "Provincia",
+        "texto": "El territorio nacional de Formosa se convierte en provincia."
+      },
+      {
+        "fecha": "Hoy",
+        "titulo": "Bañado La Estrella",
+        "texto": "Es uno de los humedales más grandes de Argentina, con árboles secos que salen del agua."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Bañado La Estrella",
+      "zona": "Centro-oeste, Ruta 81",
+      "descripcion": "Un humedal inmenso que se recorre en canoa entre camalotes y garzas.",
+      "imagen": "/provincias/formosa/banado-la-estrella.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Parque Nacional Río Pilcomayo",
+      "zona": "Laguna Blanca",
+      "descripcion": "Pasarelas sobre esteros, yacarés y carpinchos.",
+      "imagen": "/provincias/formosa/parque-nacional-rio-pilcomayo.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Laguna Herradura",
+      "zona": "A unos 40 km de la capital",
+      "descripcion": "Una laguna con forma de herradura, con playas, camping y pesca.",
+      "imagen": "/provincias/formosa/laguna-herradura.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Formosa capital",
+      "zona": "Costanera sobre el río Paraguay",
+      "descripcion": "Una costanera amplia para caminar y mirar el río.",
+      "imagen": "/provincias/formosa/formosa-capital.webp",
+      "color": "#e3a53b"
+    },
+    {
+      "nombre": "Clorinda",
+      "zona": "Frontera con Paraguay",
+      "descripcion": "Ciudad de frontera, frente a Asunción.",
+      "imagen": "/provincias/formosa/clorinda.webp",
+      "color": "#c98a4b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cocina guaraní, criolla y de río.",
+    "items": [
+      {
+        "nombre": "Chipá",
+        "texto": "Pancito de mandioca y queso, siempre a mano."
+      },
+      {
+        "nombre": "Sopa paraguaya",
+        "texto": "Budín salado de maíz y queso."
+      },
+      {
+        "nombre": "Pescados de río",
+        "texto": "Surubí y pacú, a la parrilla o en caldo."
+      },
+      {
+        "nombre": "Mbejú",
+        "texto": "Tortilla de almidón y queso."
+      },
+      {
+        "nombre": "Tereré",
+        "texto": "Mate frío, indispensable en verano."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Abril a septiembre",
+        "texto": "El calor baja y es el mejor momento para recorrer los bañados."
+      },
+      {
+        "nombre": "Octubre a marzo",
+        "texto": "Calor fuerte y húmedo, con lluvias."
+      },
+      {
+        "nombre": "Todo el año",
+        "texto": "Las aves están siempre. Al amanecer y al atardecer se ven más."
+      }
+    ],
+    "consejo": "Llevá repelente, sombrero y protector solar. En el bañado las distancias son largas."
+  },
+  "mapa": {
+    "consulta": "Formosa, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 11",
+        "texto": "Une la capital con Resistencia al sur y Clorinda al norte."
+      },
+      {
+        "nombre": "Ruta 81",
+        "texto": "Cruza la provincia hacia el oeste y el Bañado La Estrella."
+      },
+      {
+        "nombre": "Ruta 86",
+        "texto": "Hacia el Parque Nacional Río Pilcomayo."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Formosa",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

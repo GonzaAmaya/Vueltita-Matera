@@ -1,0 +1,157 @@
+{
+  "slug": "santa-fe",
+  "nombre": "Santa Fe",
+  "lema": "La cuna de la bandera, la Constitución y una costa del Paraná con islas para perderse.",
+  "hero": "/provincias/santa-fe/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Santa Fe"
+    },
+    {
+      "etiqueta": "Ciudad más grande",
+      "valor": "Rosario"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Unas 4 horas en auto a Rosario"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Septiembre a abril"
+    }
+  ],
+  "historia": {
+    "titulo": "Bandera y Constitución",
+    "intro": "En Santa Fe se izó por primera vez la bandera y se sancionó la Constitución. También fue la puerta de entrada de miles de inmigrantes que fundaron colonias agrícolas.",
+    "hitos": [
+      {
+        "fecha": "1573",
+        "titulo": "Fundación de Santa Fe",
+        "texto": "Juan de Garay funda la ciudad en Cayastá, donde hoy se visitan sus ruinas."
+      },
+      {
+        "fecha": "1660",
+        "titulo": "El traslado",
+        "texto": "Por las inundaciones y los ataques, la ciudad se muda a su ubicación actual."
+      },
+      {
+        "fecha": "1812",
+        "titulo": "La bandera",
+        "texto": "El 27 de febrero, Belgrano iza por primera vez la bandera a orillas del Paraná, en Rosario."
+      },
+      {
+        "fecha": "1853",
+        "titulo": "La Constitución",
+        "texto": "El Congreso reunido en Santa Fe sanciona la Constitución Nacional."
+      },
+      {
+        "fecha": "1856",
+        "titulo": "Esperanza",
+        "texto": "Se funda Esperanza, la primera colonia agrícola organizada del país."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Monumento a la Bandera",
+      "zona": "Rosario",
+      "descripcion": "El gran monumento a orillas del Paraná, con un mirador en lo alto de su torre.",
+      "imagen": "/provincias/santa-fe/monumento-a-la-bandera.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Costanera e islas de Rosario",
+      "zona": "Rosario",
+      "descripcion": "Bares de río, playas y lanchas a las islas del Paraná.",
+      "imagen": "/provincias/santa-fe/costanera-e-islas-de-rosario.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Santa Fe capital",
+      "zona": "Centro histórico",
+      "descripcion": "La manzana jesuítica, la Casa de Gobierno y el puente colgante.",
+      "imagen": "/provincias/santa-fe/santa-fe-capital.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Ruinas de Santa Fe la Vieja",
+      "zona": "Cayastá",
+      "descripcion": "El sitio original de la ciudad, con los restos de sus iglesias.",
+      "imagen": "/provincias/santa-fe/ruinas-de-santa-fe-la-vieja.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Esperanza",
+      "zona": "Centro de la provincia",
+      "descripcion": "La primera colonia agrícola, con su museo de la colonización.",
+      "imagen": "/provincias/santa-fe/esperanza.webp",
+      "color": "#c98a4b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cocina de río, de colonia y con un par de inventos propios.",
+    "items": [
+      {
+        "nombre": "Carlitos",
+        "texto": "El tostado rosarino de jamón y queso, con kétchup y a veces papas pay."
+      },
+      {
+        "nombre": "Alfajor santafesino",
+        "texto": "Hojaldrado y cubierto de merengue blanco."
+      },
+      {
+        "nombre": "Pescados de río",
+        "texto": "Surubí, boga y sábalo a la parrilla."
+      },
+      {
+        "nombre": "Liso",
+        "texto": "Así se pide en Santa Fe la cerveza tirada en vaso."
+      },
+      {
+        "nombre": "Quesos de colonia",
+        "texto": "Las colonias del centro producen buenos quesos."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Septiembre a noviembre",
+        "texto": "Primavera agradable para la ciudad y la costanera."
+      },
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Calor y vida de río: playas, islas y bares."
+      },
+      {
+        "nombre": "20 de junio",
+        "texto": "Día de la Bandera, con un gran acto en el Monumento."
+      }
+    ],
+    "consejo": "Para ir a las islas usá lanchas habilitadas desde las estaciones fluviales."
+  },
+  "mapa": {
+    "consulta": "Santa Fe, Argentina",
+    "rutas": [
+      {
+        "nombre": "Autopista Rosario–Santa Fe",
+        "texto": "Une las dos ciudades en unas dos horas."
+      },
+      {
+        "nombre": "Ruta 1 provincial",
+        "texto": "La ruta costera hacia Cayastá y el norte."
+      },
+      {
+        "nombre": "Puente Rosario–Victoria",
+        "texto": "Cruza las islas del Paraná hacia Entre Ríos."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Santa Fe",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

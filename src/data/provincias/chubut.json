@@ -1,0 +1,157 @@
+{
+  "slug": "chubut",
+  "nombre": "Chubut",
+  "lema": "Ballenas francas, pingüinos, té galés y bosques de alerces milenarios.",
+  "hero": "/provincias/chubut/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Rawson"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas a Trelew"
+    },
+    {
+      "etiqueta": "Patrimonio UNESCO",
+      "valor": "Península Valdés y Los Alerces"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Septiembre a marzo"
+    }
+  ],
+  "historia": {
+    "titulo": "La Patagonia galesa",
+    "intro": "Chubut une la fauna marina de la costa, los pueblos fundados por colonos galeses y los bosques de la cordillera.",
+    "hitos": [
+      {
+        "fecha": "Siempre",
+        "titulo": "Tehuelches",
+        "texto": "Los tehuelches recorren la meseta. Los colonos galeses aprenden mucho de ellos."
+      },
+      {
+        "fecha": "1865",
+        "titulo": "Llegan los galeses",
+        "texto": "El barco Mimosa desembarca a los primeros colonos galeses en Puerto Madryn."
+      },
+      {
+        "fecha": "1902",
+        "titulo": "El plebiscito",
+        "texto": "Los colonos del valle 16 de Octubre votan quedar del lado argentino en el arbitraje con Chile."
+      },
+      {
+        "fecha": "1999",
+        "titulo": "Península Valdés",
+        "texto": "La UNESCO declara a la península Patrimonio Natural de la Humanidad."
+      },
+      {
+        "fecha": "2017",
+        "titulo": "Los Alerces",
+        "texto": "El Parque Nacional Los Alerces también es declarado Patrimonio de la Humanidad."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Península Valdés",
+      "zona": "Cerca de Puerto Madryn",
+      "descripcion": "Ballenas francas, elefantes y lobos marinos, y orcas en algunas temporadas.",
+      "imagen": "/provincias/chubut/peninsula-valdes.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Punta Tombo",
+      "zona": "Al sur de Trelew",
+      "descripcion": "Una de las colonias continentales más grandes de pingüino de Magallanes.",
+      "imagen": "/provincias/chubut/punta-tombo.webp",
+      "color": "#3b3b46"
+    },
+    {
+      "nombre": "Gaiman",
+      "zona": "Valle inferior del río Chubut",
+      "descripcion": "Casas de té galesas y capillas de los colonos.",
+      "imagen": "/provincias/chubut/gaiman.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Parque Nacional Los Alerces",
+      "zona": "Cordillera, cerca de Esquel",
+      "descripcion": "Lagos turquesa y alerces de más de dos mil años.",
+      "imagen": "/provincias/chubut/parque-nacional-los-alerces.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Esquel y La Trochita",
+      "zona": "Cordillera",
+      "descripcion": "El Viejo Expreso Patagónico, a vapor y de trocha angosta.",
+      "imagen": "/provincias/chubut/esquel-y-la-trochita.webp",
+      "color": "#a8442a"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Té galés, mariscos y cordero.",
+    "items": [
+      {
+        "nombre": "Té galés",
+        "texto": "Con torta negra, scones y dulces caseros."
+      },
+      {
+        "nombre": "Torta negra galesa",
+        "texto": "Con frutas secas, pensada para durar mucho tiempo."
+      },
+      {
+        "nombre": "Mariscos y pescados",
+        "texto": "Langostinos, pulpitos y merluza en Puerto Madryn."
+      },
+      {
+        "nombre": "Cordero patagónico",
+        "texto": "Al asador en las estancias."
+      },
+      {
+        "nombre": "Trucha",
+        "texto": "En la zona de la cordillera."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Junio a diciembre",
+        "texto": "Temporada de ballenas en Península Valdés. Septiembre y octubre son los mejores meses."
+      },
+      {
+        "nombre": "Septiembre a marzo",
+        "texto": "Pingüinos en Punta Tombo."
+      },
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Verano en la cordillera, ideal para Los Alerces."
+      }
+    ],
+    "consejo": "Las distancias entre la costa y la cordillera son largas. Calculá unas 7 horas de Trelew a Esquel."
+  },
+  "mapa": {
+    "consulta": "Chubut, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 3",
+        "texto": "Une Puerto Madryn, Trelew y la costa."
+      },
+      {
+        "nombre": "Ruta 2 provincial",
+        "texto": "Hacia Puerto Pirámides y la Península Valdés."
+      },
+      {
+        "nombre": "Ruta 25",
+        "texto": "Cruza la meseta de Trelew a la cordillera."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Chubut",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

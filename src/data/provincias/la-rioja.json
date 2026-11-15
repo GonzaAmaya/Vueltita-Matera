@@ -1,0 +1,157 @@
+{
+  "slug": "la-rioja",
+  "nombre": "La Rioja",
+  "lema": "Cañones rojos, dinosaurios, lagunas de altura y la chaya en carnaval.",
+  "hero": "/provincias/la-rioja/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "La Rioja"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Patrimonio UNESCO",
+      "valor": "Talampaya"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Abril a junio y septiembre a noviembre"
+    }
+  ],
+  "historia": {
+    "titulo": "De los dinosaurios a los caudillos",
+    "intro": "La Rioja conserva algunos de los fósiles más antiguos de dinosaurios, la memoria de Facundo Quiroga y fiestas que mezclan lo indígena y lo español.",
+    "hitos": [
+      {
+        "fecha": "Hace 230 millones de años",
+        "titulo": "El Triásico",
+        "texto": "En Talampaya quedaron fósiles de los primeros dinosaurios y de los reptiles que vivieron antes que ellos."
+      },
+      {
+        "fecha": "1591",
+        "titulo": "Fundación de La Rioja",
+        "texto": "Juan Ramírez de Velasco funda la ciudad de Todos los Santos de la Nueva Rioja."
+      },
+      {
+        "fecha": "Siglo XIX",
+        "titulo": "Facundo Quiroga",
+        "texto": "El caudillo riojano, el Tigre de los Llanos, es protagonista de las guerras civiles hasta su muerte en 1835."
+      },
+      {
+        "fecha": "1904",
+        "titulo": "El Cable Carril",
+        "texto": "Se inaugura el cablecarril de Chilecito a la mina La Mejicana, una obra de ingeniería única."
+      },
+      {
+        "fecha": "2000",
+        "titulo": "Patrimonio de la Humanidad",
+        "texto": "Talampaya e Ischigualasto son declarados Patrimonio Natural de la Humanidad."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Parque Nacional Talampaya",
+      "zona": "Villa Unión, Ruta 76",
+      "descripcion": "Un cañón de paredes rojas de más de cien metros, petroglifos y formaciones esculpidas por el viento.",
+      "imagen": "/provincias/la-rioja/parque-nacional-talampaya.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Chilecito",
+      "zona": "Oeste, a unos 200 km de la capital",
+      "descripcion": "Viñedos de torrontés, el Cable Carril y el cerro Famatina de fondo.",
+      "imagen": "/provincias/la-rioja/chilecito.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Laguna Brava",
+      "zona": "Reserva provincial, cordillera",
+      "descripcion": "Una laguna salada a más de 4.000 metros con flamencos y restos de un avión.",
+      "imagen": "/provincias/la-rioja/laguna-brava.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Cuesta de Miranda",
+      "zona": "Ruta 40, entre Chilecito y Villa Unión",
+      "descripcion": "Un camino de curvas entre paredes rojizas, uno de los tramos más lindos de la 40.",
+      "imagen": "/provincias/la-rioja/cuesta-de-miranda.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Aimogasta",
+      "zona": "Norte, Arauco",
+      "descripcion": "Tierra de olivares, con un olivo de más de cuatrocientos años.",
+      "imagen": "/provincias/la-rioja/aimogasta.webp",
+      "color": "#6b7b3a"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Vino blanco, aceitunas y cocina criolla.",
+    "items": [
+      {
+        "nombre": "Torrontés riojano",
+        "texto": "La cepa insignia de la provincia, aromática y fresca."
+      },
+      {
+        "nombre": "Aceitunas de Arauco",
+        "texto": "Una variedad propia, grande y carnosa."
+      },
+      {
+        "nombre": "Chivito",
+        "texto": "A la parrilla o al horno, típico de los llanos."
+      },
+      {
+        "nombre": "Empanadas riojanas",
+        "texto": "De carne, con pasas y aceitunas."
+      },
+      {
+        "nombre": "Nueces y dulces",
+        "texto": "Dulces caseros de los valles."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Abril a junio y septiembre a noviembre",
+        "texto": "Clima templado y cielos limpios para Talampaya y la 40."
+      },
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Calor intenso en los valles. Las excursiones conviene hacerlas temprano."
+      },
+      {
+        "nombre": "Febrero",
+        "texto": "La Chaya, el carnaval riojano, con harina, albahaca y coplas."
+      }
+    ],
+    "consejo": "Talampaya se recorre solo con guía. Reservá la excursión y llevá sombrero y agua."
+  },
+  "mapa": {
+    "consulta": "La Rioja, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 40",
+        "texto": "De Chilecito a Villa Unión por la Cuesta de Miranda."
+      },
+      {
+        "nombre": "Ruta 76",
+        "texto": "De Villa Unión a Talampaya y a Ischigualasto, en San Juan."
+      },
+      {
+        "nombre": "Ruta 38",
+        "texto": "De la capital hacia el norte, por Aimogasta."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por La Rioja",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

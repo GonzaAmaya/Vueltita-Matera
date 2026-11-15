@@ -1,0 +1,157 @@
+{
+  "slug": "neuquen",
+  "nombre": "Neuquén",
+  "lema": "Lagos de cordillera, bosques de pehuenes, volcanes y huellas de dinosaurios gigantes.",
+  "hero": "/provincias/neuquen/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Neuquén"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Volcán emblema",
+      "valor": "Lanín, 3.776 m"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Todo el año"
+    }
+  ],
+  "historia": {
+    "titulo": "De los dinosaurios a los lagos",
+    "intro": "Neuquén guarda fósiles de los dinosaurios más grandes del mundo, la cultura mapuche y una cordillera llena de lagos.",
+    "hitos": [
+      {
+        "fecha": "Hace unos 95 millones de años",
+        "titulo": "Gigantes del Cretácico",
+        "texto": "Viven en la región el Giganotosaurus y el Argentinosaurus, entre los dinosaurios más grandes conocidos."
+      },
+      {
+        "fecha": "Siempre",
+        "titulo": "El pueblo mapuche",
+        "texto": "Las comunidades mapuche viven en la cordillera y cuidan los bosques de pehuén, su árbol sagrado."
+      },
+      {
+        "fecha": "1904",
+        "titulo": "Nueva capital",
+        "texto": "La capital del territorio se traslada de Chos Malal a Neuquén, junto al ferrocarril."
+      },
+      {
+        "fecha": "1937",
+        "titulo": "Parque Nacional Lanín",
+        "texto": "Se crea el parque que protege el volcán Lanín y sus lagos."
+      },
+      {
+        "fecha": "1955",
+        "titulo": "Provincia",
+        "texto": "El territorio nacional de Neuquén se convierte en provincia."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "San Martín de los Andes",
+      "zona": "Sur, a orillas del lago Lácar",
+      "descripcion": "Una villa de montaña con playas de lago y el centro de esquí Chapelco.",
+      "imagen": "/provincias/neuquen/san-martin-de-los-andes.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Ruta de los Siete Lagos",
+      "zona": "Entre San Martín y Villa La Angostura",
+      "descripcion": "Un camino entre lagos, bosques y miradores. Uno de los más lindos del país.",
+      "imagen": "/provincias/neuquen/ruta-de-los-siete-lagos.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Villa La Angostura",
+      "zona": "Sobre el lago Nahuel Huapi",
+      "descripcion": "El Bosque de Arrayanes y el centro de esquí Cerro Bayo.",
+      "imagen": "/provincias/neuquen/villa-la-angostura.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Villa Pehuenia y Caviahue",
+      "zona": "Centro-oeste",
+      "descripcion": "Bosques de pehuenes, lagos y las termas de Copahue.",
+      "imagen": "/provincias/neuquen/villa-pehuenia-y-caviahue.webp",
+      "color": "#6b7b3a"
+    },
+    {
+      "nombre": "Villa El Chocón",
+      "zona": "A unos 80 km de la capital",
+      "descripcion": "Huellas de dinosaurios a la orilla del lago y el museo del Giganotosaurus.",
+      "imagen": "/provincias/neuquen/villa-el-chocon.webp",
+      "color": "#c98a4b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cocina de montaña con productos de la cordillera.",
+    "items": [
+      {
+        "nombre": "Trucha",
+        "texto": "De lagos y ríos, a la manteca o ahumada."
+      },
+      {
+        "nombre": "Chivito del norte neuquino",
+        "texto": "Criado por crianceros que trashuman con sus animales."
+      },
+      {
+        "nombre": "Piñones de pehuén",
+        "texto": "La semilla sagrada mapuche, hervida o en harina."
+      },
+      {
+        "nombre": "Vinos patagónicos",
+        "texto": "Bodegas en San Patricio del Chañar."
+      },
+      {
+        "nombre": "Frutos rojos",
+        "texto": "Dulces de frambuesa, rosa mosqueta y otros."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Lagos, kayak, trekking y la Ruta de los Siete Lagos en su mejor momento."
+      },
+      {
+        "nombre": "Junio a septiembre",
+        "texto": "Temporada de esquí en Chapelco, Cerro Bayo y Caviahue."
+      },
+      {
+        "nombre": "Abril y mayo",
+        "texto": "Otoño con bosques rojos y amarillos."
+      }
+    ],
+    "consejo": "En la cordillera el clima cambia rápido. Llevá abrigo aunque sea verano."
+  },
+  "mapa": {
+    "consulta": "Neuquén, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 40",
+        "texto": "El tramo de los Siete Lagos y el norte cordillerano."
+      },
+      {
+        "nombre": "Ruta 237",
+        "texto": "De la capital a Villa El Chocón y hacia Bariloche."
+      },
+      {
+        "nombre": "Ruta 22",
+        "texto": "Atraviesa la provincia de este a oeste, hacia Zapala."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Neuquén",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

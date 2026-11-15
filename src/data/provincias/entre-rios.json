@@ -1,0 +1,157 @@
+{
+  "slug": "entre-rios",
+  "nombre": "Entre Ríos",
+  "lema": "Palmares, playas de río, termas y el carnaval más grande del país.",
+  "hero": "/provincias/entre-rios/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Paraná"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Unas 3 horas en auto a Gualeguaychú"
+    },
+    {
+      "etiqueta": "Termas",
+      "valor": "Más de una docena de complejos"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Octubre a abril"
+    }
+  ],
+  "historia": {
+    "titulo": "La provincia de Urquiza",
+    "intro": "Entre Ríos está rodeada por el Paraná y el Uruguay. Fue tierra de Urquiza, de colonias de inmigrantes y hoy es la escapada de río preferida de los porteños.",
+    "hitos": [
+      {
+        "fecha": "Antes de 1500",
+        "titulo": "Chanáes y charrúas",
+        "texto": "Pueblos canoeros y cazadores habitan las islas y costas de los ríos."
+      },
+      {
+        "fecha": "1852",
+        "titulo": "Batalla de Caseros",
+        "texto": "El entrerriano Justo José de Urquiza vence a Rosas y abre el camino a la Constitución."
+      },
+      {
+        "fecha": "1858",
+        "titulo": "Palacio San José",
+        "texto": "Se termina la residencia de Urquiza, hoy museo nacional."
+      },
+      {
+        "fecha": "Fines del siglo XIX",
+        "titulo": "Colonias de inmigrantes",
+        "texto": "Llegan colonos judíos, alemanes del Volga y suizos, que fundan pueblos agrícolas."
+      },
+      {
+        "fecha": "1969",
+        "titulo": "Túnel Subfluvial",
+        "texto": "Se inaugura el túnel bajo el Paraná que une Paraná con Santa Fe."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Parque Nacional El Palmar",
+      "zona": "Cerca de Colón",
+      "descripcion": "Palmeras yatay, playas de río y atardeceres sobre el Uruguay.",
+      "imagen": "/provincias/entre-rios/parque-nacional-el-palmar.webp",
+      "color": "#6b7b3a"
+    },
+    {
+      "nombre": "Gualeguaychú",
+      "zona": "Sur, a orillas del río",
+      "descripcion": "El Carnaval del País en verano y playas de río.",
+      "imagen": "/provincias/entre-rios/gualeguaychu.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Colón",
+      "zona": "Costa del Uruguay",
+      "descripcion": "Termas, playas y la Fiesta Nacional de la Artesanía.",
+      "imagen": "/provincias/entre-rios/colon.webp",
+      "color": "#e3a53b"
+    },
+    {
+      "nombre": "Palacio San José",
+      "zona": "Concepción del Uruguay",
+      "descripcion": "La residencia de Urquiza, con jardines y salones de época.",
+      "imagen": "/provincias/entre-rios/palacio-san-jose.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Termas de Federación",
+      "zona": "Noreste",
+      "descripcion": "Uno de los complejos termales más conocidos del litoral.",
+      "imagen": "/provincias/entre-rios/termas-de-federacion.webp",
+      "color": "#23305e"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cocina de río y de chacra.",
+    "items": [
+      {
+        "nombre": "Pescados de río",
+        "texto": "Surubí, patí y boga a la parrilla."
+      },
+      {
+        "nombre": "Empanadas de pescado",
+        "texto": "Un clásico de la costa."
+      },
+      {
+        "nombre": "Asado entrerriano",
+        "texto": "En las estancias y campings."
+      },
+      {
+        "nombre": "Cítricos de Concordia",
+        "texto": "Naranjas y mandarinas de la zona citrícola."
+      },
+      {
+        "nombre": "Arroz entrerriano",
+        "texto": "La provincia es una gran productora de arroz."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Octubre a abril",
+        "texto": "Temporada de playa de río, campings y pesca."
+      },
+      {
+        "nombre": "Enero y febrero",
+        "texto": "Los sábados de carnaval en Gualeguaychú."
+      },
+      {
+        "nombre": "Mayo a septiembre",
+        "texto": "Ideal para las termas, que se disfrutan más con frío."
+      }
+    ],
+    "consejo": "Los fines de semana largos las termas y Gualeguaychú se llenan: reservá con tiempo."
+  },
+  "mapa": {
+    "consulta": "Entre Ríos, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 14",
+        "texto": "La autovía de la costa del Uruguay: Gualeguaychú, Colón, Concordia."
+      },
+      {
+        "nombre": "Ruta 12",
+        "texto": "Atraviesa el centro de la provincia hacia Paraná."
+      },
+      {
+        "nombre": "Túnel Subfluvial",
+        "texto": "Une Paraná con la ciudad de Santa Fe bajo el río."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Entre Ríos",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

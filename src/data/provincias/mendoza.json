@@ -1,0 +1,157 @@
+{
+  "slug": "mendoza",
+  "nombre": "Mendoza",
+  "lema": "El Aconcagua, la capital del vino argentino y montañas para todas las estaciones.",
+  "hero": "/provincias/mendoza/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Mendoza"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Pico más alto de América",
+      "valor": "Aconcagua, 6.961 m"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Todo el año"
+    }
+  ],
+  "historia": {
+    "titulo": "Tierra del sol y del buen vino",
+    "intro": "Mendoza es un oasis en el desierto, regado por canales que heredaron técnicas huarpes. Desde aquí San Martín preparó el Cruce de los Andes.",
+    "hitos": [
+      {
+        "fecha": "Antes de 1500",
+        "titulo": "Los huarpes",
+        "texto": "Construyen acequias para regar el desierto, base de los canales actuales."
+      },
+      {
+        "fecha": "1561",
+        "titulo": "Fundación de Mendoza",
+        "texto": "Pedro del Castillo funda la ciudad."
+      },
+      {
+        "fecha": "1817",
+        "titulo": "El Cruce de los Andes",
+        "texto": "San Martín parte del campamento de El Plumerillo para liberar Chile y Perú."
+      },
+      {
+        "fecha": "1861",
+        "titulo": "El terremoto",
+        "texto": "Un terremoto destruye la ciudad, que se reconstruye con plazas amplias para refugio."
+      },
+      {
+        "fecha": "1936",
+        "titulo": "La Vendimia",
+        "texto": "Se celebra la primera Fiesta Nacional de la Vendimia."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Aconcagua y alta montaña",
+      "zona": "Ruta 7, hacia Chile",
+      "descripcion": "El Parque Provincial Aconcagua, Puente del Inca y Uspallata.",
+      "imagen": "/provincias/mendoza/aconcagua-y-alta-montana.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Valle de Uco",
+      "zona": "Al sur de la capital",
+      "descripcion": "Viñedos a más de 1.000 metros con la cordillera de fondo.",
+      "imagen": "/provincias/mendoza/valle-de-uco.webp",
+      "color": "#6b7b3a"
+    },
+    {
+      "nombre": "Luján de Cuyo y Maipú",
+      "zona": "Cerca de la capital",
+      "descripcion": "Las bodegas más tradicionales, que se pueden recorrer en bici.",
+      "imagen": "/provincias/mendoza/lujan-de-cuyo-y-maipu.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "San Rafael y Cañón del Atuel",
+      "zona": "Sur",
+      "descripcion": "Un cañón de colores, diques y rafting.",
+      "imagen": "/provincias/mendoza/san-rafael-y-canon-del-atuel.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Malargüe",
+      "zona": "Sur",
+      "descripcion": "La Payunia, cuevas, el Planetario y el centro de esquí Las Leñas.",
+      "imagen": "/provincias/mendoza/malargue.webp",
+      "color": "#3b3b46"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Vino en todas sus formas y cocina de montaña.",
+    "items": [
+      {
+        "nombre": "Malbec",
+        "texto": "La cepa emblema de Argentina. La mayoría de sus viñedos están en Mendoza."
+      },
+      {
+        "nombre": "Chivo malargüino",
+        "texto": "Con indicación geográfica, a las brasas."
+      },
+      {
+        "nombre": "Empanadas mendocinas",
+        "texto": "De carne, con aceitunas y huevo."
+      },
+      {
+        "nombre": "Tomaticán",
+        "texto": "Guiso de tomate, cebolla y huevo."
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "texto": "Olivares en Maipú y el norte de la provincia."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Fines de febrero y marzo",
+        "texto": "La Vendimia: cosecha, fiestas y la gran fiesta en el teatro griego."
+      },
+      {
+        "nombre": "Junio a septiembre",
+        "texto": "Temporada de esquí en Las Leñas, Penitentes y Los Puquios."
+      },
+      {
+        "nombre": "Octubre a diciembre",
+        "texto": "Primavera: viñedos verdes y temporada de ascenso al Aconcagua."
+      }
+    ],
+    "consejo": "En invierno el Paso Cristo Redentor a Chile puede cerrarse por nieve. Consultá antes de viajar."
+  },
+  "mapa": {
+    "consulta": "Mendoza, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 7",
+        "texto": "De la capital a Uspallata, Puente del Inca y Chile."
+      },
+      {
+        "nombre": "Ruta 40",
+        "texto": "Hacia el Valle de Uco y el sur."
+      },
+      {
+        "nombre": "Ruta 82",
+        "texto": "A Cacheuta y Potrerillos, con termas y dique."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Mendoza",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

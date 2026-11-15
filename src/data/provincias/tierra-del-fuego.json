@@ -1,0 +1,157 @@
+{
+  "slug": "tierra-del-fuego",
+  "nombre": "Tierra del Fuego",
+  "lema": "La ciudad más austral, el Canal Beagle y montañas que caen al mar.",
+  "hero": "/provincias/tierra-del-fuego/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Ushuaia"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 3 h 30"
+    },
+    {
+      "etiqueta": "Apodo",
+      "valor": "El fin del mundo"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Diciembre a marzo y julio a septiembre"
+    }
+  ],
+  "historia": {
+    "titulo": "En el fin del mundo",
+    "intro": "Tierra del Fuego fue tierra de selk'nam y yaganes, después de presos y pioneros, y hoy es la puerta de entrada a la Antártida.",
+    "hitos": [
+      {
+        "fecha": "Hace miles de años",
+        "titulo": "Selk'nam y yaganes",
+        "texto": "Los selk'nam cazan en la isla y los yaganes navegan los canales en canoas."
+      },
+      {
+        "fecha": "1520",
+        "titulo": "Tierra de los Fuegos",
+        "texto": "Magallanes ve las fogatas de los pueblos originarios y llama así a la isla."
+      },
+      {
+        "fecha": "1884",
+        "titulo": "Fundación de Ushuaia",
+        "texto": "Se instala la subprefectura que da origen a la ciudad."
+      },
+      {
+        "fecha": "1902",
+        "titulo": "El presidio",
+        "texto": "Comienza la construcción de la cárcel de Ushuaia, hoy Museo Marítimo y del Presidio."
+      },
+      {
+        "fecha": "1991",
+        "titulo": "Provincia",
+        "texto": "El último territorio nacional se convierte en provincia."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Parque Nacional Tierra del Fuego",
+      "zona": "A unos 12 km de Ushuaia",
+      "descripcion": "Bosques, lagos y bahías. Ahí termina la Ruta 3.",
+      "imagen": "/provincias/tierra-del-fuego/parque-nacional-tierra-del-fuego.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Canal Beagle",
+      "zona": "Navegación desde Ushuaia",
+      "descripcion": "El faro Les Eclaireurs, lobos marinos y aves. Algunas salidas visitan pingüineras.",
+      "imagen": "/provincias/tierra-del-fuego/canal-beagle.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Tren del Fin del Mundo",
+      "zona": "Ushuaia",
+      "descripcion": "Un tren a vapor que sigue el camino de los antiguos presos.",
+      "imagen": "/provincias/tierra-del-fuego/tren-del-fin-del-mundo.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Lagos Escondido y Fagnano",
+      "zona": "Ruta 3, Paso Garibaldi",
+      "descripcion": "Vistas desde el paso de montaña y lagos enormes.",
+      "imagen": "/provincias/tierra-del-fuego/lagos-escondido-y-fagnano.webp",
+      "color": "#5b8db8"
+    },
+    {
+      "nombre": "Tolhuin",
+      "zona": "Centro de la isla",
+      "descripcion": "Pueblo a orillas del Fagnano, con su famosa panadería.",
+      "imagen": "/provincias/tierra-del-fuego/tolhuin.webp",
+      "color": "#c98a4b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Frutos del mar austral.",
+    "items": [
+      {
+        "nombre": "Centolla",
+        "texto": "El gran plato fueguino, al natural o gratinada."
+      },
+      {
+        "nombre": "Merluza negra",
+        "texto": "Un pescado de aguas frías muy valorado."
+      },
+      {
+        "nombre": "Cordero fueguino",
+        "texto": "Al asador en las estancias."
+      },
+      {
+        "nombre": "Panadería de Tolhuin",
+        "texto": "Facturas y pan casero en la parada obligada de la ruta."
+      },
+      {
+        "nombre": "Cerveza austral",
+        "texto": "Cervecerías locales en Ushuaia."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Días largos para navegar el Beagle y caminar el parque."
+      },
+      {
+        "nombre": "Julio a septiembre",
+        "texto": "Temporada de esquí en Cerro Castor y paseos en trineo."
+      },
+      {
+        "nombre": "Abril y mayo",
+        "texto": "Otoño con bosques de lenga rojos y amarillos."
+      }
+    ],
+    "consejo": "Aunque sea verano, el clima cambia en minutos. Abrigo, impermeable y calzado cómodo siempre."
+  },
+  "mapa": {
+    "consulta": "Tierra del Fuego, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 3",
+        "texto": "Une Ushuaia, Tolhuin y Río Grande, cruzando el Paso Garibaldi."
+      },
+      {
+        "nombre": "Canal Beagle",
+        "texto": "Navegaciones desde el puerto de Ushuaia."
+      },
+      {
+        "nombre": "Ruta J",
+        "texto": "Hacia la Estancia Harberton y la costa del Beagle."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Tierra del Fuego",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

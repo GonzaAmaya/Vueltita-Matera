@@ -1,0 +1,157 @@
+{
+  "slug": "la-pampa",
+  "nombre": "La Pampa",
+  "lema": "Llanura, caldenes, ciervos en brama y cielos enormes.",
+  "hero": "/provincias/la-pampa/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Santa Rosa"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Unas 7 horas en auto"
+    },
+    {
+      "etiqueta": "Árbol símbolo",
+      "valor": "El caldén"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Marzo a mayo"
+    }
+  ],
+  "historia": {
+    "titulo": "Tierra de ranqueles",
+    "intro": "La Pampa fue frontera hasta fines del siglo XIX. Hoy es campo, monte de caldén y una tranquilidad difícil de encontrar.",
+    "hitos": [
+      {
+        "fecha": "Siglo XIX",
+        "titulo": "Los ranqueles",
+        "texto": "El pueblo ranquel domina la región. Lucio V. Mansilla lo cuenta en Una excursión a los indios ranqueles."
+      },
+      {
+        "fecha": "1879",
+        "titulo": "La Conquista del Desierto",
+        "texto": "La campaña militar avanza sobre los territorios indígenas de la región."
+      },
+      {
+        "fecha": "1892",
+        "titulo": "Fundación de Santa Rosa",
+        "texto": "Tomás Mason funda la ciudad que luego sería la capital."
+      },
+      {
+        "fecha": "1951",
+        "titulo": "Provincia",
+        "texto": "El territorio nacional se convierte en provincia."
+      },
+      {
+        "fecha": "1977",
+        "titulo": "Parque Nacional Lihué Calel",
+        "texto": "Se protegen las sierras con pinturas rupestres en medio de la llanura."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Parque Nacional Lihué Calel",
+      "zona": "Sur, Ruta 152",
+      "descripcion": "Sierras rosadas con pinturas rupestres, guanacos y maras.",
+      "imagen": "/provincias/la-pampa/parque-nacional-lihue-calel.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Parque Luro",
+      "zona": "A unos 35 km de Santa Rosa",
+      "descripcion": "Bosque de caldén, el castillo de la antigua estancia y la brama del ciervo.",
+      "imagen": "/provincias/la-pampa/parque-luro.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Santa Rosa",
+      "zona": "Capital",
+      "descripcion": "La laguna Don Tomás, el centro cívico y museos.",
+      "imagen": "/provincias/la-pampa/santa-rosa.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Embalse Casa de Piedra",
+      "zona": "Sudoeste, sobre el río Colorado",
+      "descripcion": "Un lago en medio de la meseta, con pesca y deportes náuticos.",
+      "imagen": "/provincias/la-pampa/embalse-casa-de-piedra.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Pueblos del este",
+      "zona": "General Pico y alrededores",
+      "descripcion": "Pueblos agrícolas con historia de inmigrantes.",
+      "imagen": "/provincias/la-pampa/pueblos-del-este.webp",
+      "color": "#e3a53b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Campo, caza y monte.",
+    "items": [
+      {
+        "nombre": "Asado pampeano",
+        "texto": "A la parrilla, con carne de la zona."
+      },
+      {
+        "nombre": "Chivito del oeste",
+        "texto": "Criado en el monte y hecho a las brasas."
+      },
+      {
+        "nombre": "Ahumados",
+        "texto": "Ciervo y jabalí ahumados, típicos de la zona."
+      },
+      {
+        "nombre": "Miel pampeana",
+        "texto": "La provincia es una gran productora."
+      },
+      {
+        "nombre": "Empanadas criollas",
+        "texto": "Siempre presentes en las fiestas de pueblo."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Marzo y abril",
+        "texto": "La brama del ciervo colorado en Parque Luro, un espectáculo sonoro."
+      },
+      {
+        "nombre": "Septiembre a noviembre",
+        "texto": "Primavera templada para recorrer el monte."
+      },
+      {
+        "nombre": "Diciembre a febrero",
+        "texto": "Calor seco. Las noches son frescas."
+      }
+    ],
+    "consejo": "Las distancias son largas y hay pocas estaciones de servicio en el oeste. Cargá combustible siempre que puedas."
+  },
+  "mapa": {
+    "consulta": "La Pampa, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 5",
+        "texto": "La conexión directa con Buenos Aires."
+      },
+      {
+        "nombre": "Ruta 35",
+        "texto": "Atraviesa la provincia de norte a sur por Santa Rosa."
+      },
+      {
+        "nombre": "Ruta 152",
+        "texto": "Hacia el Parque Nacional Lihué Calel."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por La Pampa",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

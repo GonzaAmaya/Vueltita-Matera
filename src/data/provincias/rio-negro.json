@@ -1,0 +1,157 @@
+{
+  "slug": "rio-negro",
+  "nombre": "Río Negro",
+  "lema": "Bariloche, el chocolate, el Nahuel Huapi y playas de agua cálida en el Atlántico.",
+  "hero": "/provincias/rio-negro/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Viedma"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas a Bariloche"
+    },
+    {
+      "etiqueta": "Parque nacional",
+      "valor": "Nahuel Huapi"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Todo el año"
+    }
+  ],
+  "historia": {
+    "titulo": "De la cordillera al mar",
+    "intro": "Río Negro cruza la Patagonia de oeste a este: lagos y montañas en Bariloche, un valle de frutales y playas en el Atlántico.",
+    "hitos": [
+      {
+        "fecha": "Siempre",
+        "titulo": "Tehuelches y mapuches",
+        "texto": "Los pueblos originarios recorren la meseta y la cordillera."
+      },
+      {
+        "fecha": "1779",
+        "titulo": "Viedma y Patagones",
+        "texto": "Francisco de Viedma funda el fuerte que dio origen a Viedma y Carmen de Patagones."
+      },
+      {
+        "fecha": "1902",
+        "titulo": "Fundación de Bariloche",
+        "texto": "Se funda San Carlos de Bariloche a orillas del Nahuel Huapi."
+      },
+      {
+        "fecha": "1934",
+        "titulo": "Parque Nacional Nahuel Huapi",
+        "texto": "Se crea el parque nacional, sobre la base de tierras donadas por el Perito Moreno."
+      },
+      {
+        "fecha": "1955",
+        "titulo": "Provincia",
+        "texto": "El territorio nacional se convierte en provincia."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Bariloche",
+      "zona": "A orillas del lago Nahuel Huapi",
+      "descripcion": "El Centro Cívico, el Circuito Chico y el Cerro Campanario.",
+      "imagen": "/provincias/rio-negro/bariloche.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Cerro Catedral",
+      "zona": "A unos 20 km de Bariloche",
+      "descripcion": "El centro de esquí más grande del país, y trekking en verano.",
+      "imagen": "/provincias/rio-negro/cerro-catedral.webp",
+      "color": "#3b3b46"
+    },
+    {
+      "nombre": "El Bolsón",
+      "zona": "Sur, Comarca Andina",
+      "descripcion": "Feria artesanal, cerveza, frutas finas y el Cerro Piltriquitrón.",
+      "imagen": "/provincias/rio-negro/el-bolson.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Las Grutas",
+      "zona": "Golfo San Matías",
+      "descripcion": "Playas con el agua más cálida de la Patagonia.",
+      "imagen": "/provincias/rio-negro/las-grutas.webp",
+      "color": "#e3a53b"
+    },
+    {
+      "nombre": "Alto Valle",
+      "zona": "General Roca, Cipolletti",
+      "descripcion": "Chacras de peras y manzanas, y bodegas.",
+      "imagen": "/provincias/rio-negro/alto-valle.webp",
+      "color": "#6b7b3a"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Chocolate, cerveza y productos de la Comarca.",
+    "items": [
+      {
+        "nombre": "Chocolate de Bariloche",
+        "texto": "En rama, en tabletas o caliente, en las fábricas del centro."
+      },
+      {
+        "nombre": "Cerveza artesanal",
+        "texto": "Bariloche y El Bolsón tienen decenas de cervecerías."
+      },
+      {
+        "nombre": "Cordero patagónico",
+        "texto": "Al asador, a la cruz."
+      },
+      {
+        "nombre": "Frutas finas",
+        "texto": "Dulces de frambuesa, frutilla y cereza de El Bolsón."
+      },
+      {
+        "nombre": "Trucha",
+        "texto": "De los lagos y ríos de la cordillera."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Lagos, playas de Las Grutas y trekking por refugios."
+      },
+      {
+        "nombre": "Julio a septiembre",
+        "texto": "Temporada de esquí en el Catedral."
+      },
+      {
+        "nombre": "Abril y mayo",
+        "texto": "Otoño de colores en los bosques."
+      }
+    ],
+    "consejo": "En julio Bariloche se llena de viajes de egresados y vacaciones de invierno. Reservá con anticipación."
+  },
+  "mapa": {
+    "consulta": "Río Negro, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 40",
+        "texto": "De Bariloche a El Bolsón."
+      },
+      {
+        "nombre": "Ruta 237",
+        "texto": "Conecta Bariloche con Neuquén."
+      },
+      {
+        "nombre": "Ruta 3",
+        "texto": "La costa atlántica, hacia Las Grutas y Viedma."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Río Negro",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

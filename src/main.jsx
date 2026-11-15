@@ -1,16 +1,18 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import Navbar from './assets/components/Navbar.jsx'
-import Hero from './assets/components/Hero.jsx'
-import Historia from './assets/components/historia.jsx'
-import MapaArgentina from './assets/components/mapa.jsx'
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import "./index.css";
+import Home from "./pages/Home.jsx";
+import Provincia from "./pages/Provincia.jsx";
 
-createRoot(document.getElementById('root')).render(
+createRoot(document.getElementById("root")).render(
   <StrictMode>
-      <Navbar />
-      <Hero />
-      <Historia />
-      <MapaArgentina />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/provincia/:slug" element={<Provincia />} />
+        <Route path="*" element={<Home />} />
+      </Routes>
+    </BrowserRouter>
   </StrictMode>,
-)
+);

@@ -1,0 +1,157 @@
+{
+  "slug": "santa-cruz",
+  "nombre": "Santa Cruz",
+  "lema": "Glaciares que se derrumban, el Fitz Roy y la Patagonia más inmensa.",
+  "hero": "/provincias/santa-cruz/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Río Gallegos"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 3 horas a El Calafate"
+    },
+    {
+      "etiqueta": "Glaciar emblema",
+      "valor": "Perito Moreno"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Octubre a abril"
+    }
+  ],
+  "historia": {
+    "titulo": "Hielo, viento y manos pintadas",
+    "intro": "Santa Cruz es una de las provincias más grandes y menos pobladas. Guarda arte rupestre de miles de años y algunos de los paisajes más famosos del país.",
+    "hitos": [
+      {
+        "fecha": "Hace unos 9.000 años",
+        "titulo": "Cueva de las Manos",
+        "texto": "Cazadores pintan cientos de manos en la roca del cañadón del río Pinturas."
+      },
+      {
+        "fecha": "1520",
+        "titulo": "Magallanes en San Julián",
+        "texto": "La expedición de Magallanes pasa el invierno en la bahía de San Julián."
+      },
+      {
+        "fecha": "1981",
+        "titulo": "Los Glaciares",
+        "texto": "El Parque Nacional Los Glaciares es declarado Patrimonio de la Humanidad."
+      },
+      {
+        "fecha": "1985",
+        "titulo": "El Chaltén",
+        "texto": "Se funda El Chaltén, al pie del Fitz Roy."
+      },
+      {
+        "fecha": "1999",
+        "titulo": "Patrimonio",
+        "texto": "La Cueva de las Manos es declarada Patrimonio de la Humanidad."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Glaciar Perito Moreno",
+      "zona": "Parque Nacional Los Glaciares",
+      "descripcion": "Pasarelas frente al frente de hielo y desprendimientos que suenan como truenos.",
+      "imagen": "/provincias/santa-cruz/glaciar-perito-moreno.webp",
+      "color": "#5b8db8"
+    },
+    {
+      "nombre": "El Chaltén",
+      "zona": "Al pie del Fitz Roy",
+      "descripcion": "La capital nacional del trekking: Laguna de los Tres, Laguna Torre y más.",
+      "imagen": "/provincias/santa-cruz/el-chalten.webp",
+      "color": "#3b3b46"
+    },
+    {
+      "nombre": "El Calafate",
+      "zona": "Lago Argentino",
+      "descripcion": "La base para los glaciares, con navegaciones a los glaciares Upsala y Spegazzini.",
+      "imagen": "/provincias/santa-cruz/el-calafate.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Cueva de las Manos",
+      "zona": "Noroeste, río Pinturas",
+      "descripcion": "Arte rupestre con miles de años de antigüedad.",
+      "imagen": "/provincias/santa-cruz/cueva-de-las-manos.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Puerto Deseado",
+      "zona": "Costa atlántica",
+      "descripcion": "La ría con pingüinos de penacho amarillo, toninas y aves marinas.",
+      "imagen": "/provincias/santa-cruz/puerto-deseado.webp",
+      "color": "#2f5e4e"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cordero, frutos del sur y cerveza para el frío.",
+    "items": [
+      {
+        "nombre": "Cordero patagónico",
+        "texto": "Al asador, durante horas junto al fuego."
+      },
+      {
+        "nombre": "Calafate",
+        "texto": "Un fruto azul. Dicen que quien lo come vuelve a la Patagonia."
+      },
+      {
+        "nombre": "Cerveza artesanal",
+        "texto": "Cervecerías en El Calafate y El Chaltén."
+      },
+      {
+        "nombre": "Mariscos",
+        "texto": "Pescados y mariscos en los puertos de la costa."
+      },
+      {
+        "nombre": "Chocolate caliente",
+        "texto": "Infaltable después de un día de viento."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Octubre a abril",
+        "texto": "La temporada principal: días largos y todo abierto."
+      },
+      {
+        "nombre": "Diciembre a febrero",
+        "texto": "Más gente y más luz, con días de casi 17 horas."
+      },
+      {
+        "nombre": "Mayo a septiembre",
+        "texto": "Frío y paisajes nevados. En El Chaltén muchos servicios cierran."
+      }
+    ],
+    "consejo": "El viento patagónico es muy fuerte. Llevá rompeviento y abrigo en capas en cualquier época."
+  },
+  "mapa": {
+    "consulta": "Santa Cruz, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 40",
+        "texto": "Recorre la provincia de norte a sur por la cordillera."
+      },
+      {
+        "nombre": "Ruta 11 provincial",
+        "texto": "De El Calafate al Glaciar Perito Moreno."
+      },
+      {
+        "nombre": "Ruta 23 provincial",
+        "texto": "Hacia El Chaltén."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Santa Cruz",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Secretos
+.env
+public/Captura de pantalla*
+.venv/
+__pycache__/

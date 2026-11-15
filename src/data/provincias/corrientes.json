@@ -1,0 +1,157 @@
+{
+  "slug": "corrientes",
+  "nombre": "Corrientes",
+  "lema": "Los Esteros del Iberá, el chamamé y ríos enormes para pescar el dorado.",
+  "hero": "/provincias/corrientes/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Corrientes"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 1 h 30"
+    },
+    {
+      "etiqueta": "Humedal",
+      "valor": "Esteros del Iberá"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Abril a octubre"
+    }
+  ],
+  "historia": {
+    "titulo": "Entre dos ríos",
+    "intro": "Corrientes está rodeada por el Paraná y el Uruguay, y en su centro guarda los Esteros del Iberá. Su cultura tiene raíz guaraní y suena a chamamé.",
+    "hitos": [
+      {
+        "fecha": "Antes de 1500",
+        "titulo": "Guaraníes del litoral",
+        "texto": "Los guaraníes viven en las costas de los ríos y dejan su lengua en muchos nombres de lugares."
+      },
+      {
+        "fecha": "1588",
+        "titulo": "Fundación de Corrientes",
+        "texto": "Juan Torres de Vera y Aragón funda la ciudad de San Juan de Vera de las Siete Corrientes."
+      },
+      {
+        "fecha": "1778",
+        "titulo": "Nace San Martín",
+        "texto": "José de San Martín nace en Yapeyú, un antiguo pueblo de las misiones jesuíticas."
+      },
+      {
+        "fecha": "Siglo XX",
+        "titulo": "El chamamé",
+        "texto": "El chamamé se vuelve la música del litoral. Hoy es Patrimonio Cultural Inmaterial de la Humanidad."
+      },
+      {
+        "fecha": "2018",
+        "titulo": "Parque Nacional Iberá",
+        "texto": "Se crea el Parque Nacional Iberá, donde se reintrodujeron especies como el yaguareté."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Esteros del Iberá",
+      "zona": "Colonia Carlos Pellegrini y otros portales",
+      "descripcion": "Lagunas y embalsados con yacarés, carpinchos, ciervos de los pantanos y cientos de aves.",
+      "imagen": "/provincias/corrientes/esteros-del-ibera.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Corrientes capital",
+      "zona": "Costanera sobre el Paraná",
+      "descripcion": "Una costanera con playas de río, casas coloniales y murales.",
+      "imagen": "/provincias/corrientes/corrientes-capital.webp",
+      "color": "#e3a53b"
+    },
+    {
+      "nombre": "Paso de la Patria",
+      "zona": "A unos 40 km de la capital",
+      "descripcion": "Uno de los lugares más conocidos del país para pescar el dorado.",
+      "imagen": "/provincias/corrientes/paso-de-la-patria.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Yapeyú",
+      "zona": "Costa del río Uruguay",
+      "descripcion": "El pueblo natal de San Martín, con el templete que protege los restos de su casa.",
+      "imagen": "/provincias/corrientes/yapeyu.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Goya",
+      "zona": "Costa del Paraná",
+      "descripcion": "Ciudad de río y pesca, con su fiesta nacional del surubí.",
+      "imagen": "/provincias/corrientes/goya.webp",
+      "color": "#23305e"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cocina guaraní y de río.",
+    "items": [
+      {
+        "nombre": "Chipá",
+        "texto": "Pancito de almidón de mandioca y queso, compañero del mate."
+      },
+      {
+        "nombre": "Sopa paraguaya",
+        "texto": "A pesar del nombre, es un budín salado de harina de maíz y queso."
+      },
+      {
+        "nombre": "Mbejú",
+        "texto": "Una tortilla de almidón y queso hecha en sartén."
+      },
+      {
+        "nombre": "Pescados de río",
+        "texto": "Dorado, surubí y pacú a la parrilla."
+      },
+      {
+        "nombre": "Chipá cuerito y tereré",
+        "texto": "Para el calor: tereré, el mate frío con hierbas."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Abril a octubre",
+        "texto": "Temperaturas agradables para el Iberá y mucha fauna a la vista."
+      },
+      {
+        "nombre": "Noviembre a marzo",
+        "texto": "Calor fuerte y húmedo. Buena época para la playa de río."
+      },
+      {
+        "nombre": "Enero",
+        "texto": "Fiesta Nacional del Chamamé en la capital, y carnavales en febrero."
+      }
+    ],
+    "consejo": "Al Iberá se llega en parte por caminos de tierra. Consultá el estado si llovió."
+  },
+  "mapa": {
+    "consulta": "Corrientes, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 12",
+        "texto": "Bordea el Paraná y une la capital con Posadas."
+      },
+      {
+        "nombre": "Ruta 40 provincial",
+        "texto": "Camino de tierra hacia Colonia Carlos Pellegrini, en el Iberá."
+      },
+      {
+        "nombre": "Ruta 14",
+        "texto": "Por la costa del Uruguay, hacia Yapeyú y Paso de los Libres."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Corrientes",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

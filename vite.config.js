@@ -8,4 +8,10 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
+  server: {
+    // El asistente corre en server/index.js; en desarrollo Vite le pasa /api/*
+    proxy: {
+      '/api': 'http://localhost:8787',
+    },
+  },
 })

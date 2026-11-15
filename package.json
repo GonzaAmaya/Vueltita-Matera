@@ -7,9 +7,12 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "server": "node --env-file-if-exists=.env --watch server/index.js",
+    "server:py": "server-py\\.venv\\Scripts\\python -m uvicorn main:app --app-dir server-py --port 8787 --env-file .env --reload"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^1.8.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-router-dom": "^7.18.3"

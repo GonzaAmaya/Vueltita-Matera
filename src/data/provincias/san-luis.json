@@ -1,0 +1,157 @@
+{
+  "slug": "san-luis",
+  "nombre": "San Luis",
+  "lema": "Sierras, quebradas rojas, pueblos mineros y el microclima de Merlo.",
+  "hero": "/provincias/san-luis/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "San Luis"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de 1 h 30"
+    },
+    {
+      "etiqueta": "Parque nacional",
+      "valor": "Sierra de las Quijadas"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Septiembre a abril"
+    }
+  ],
+  "historia": {
+    "titulo": "Entre sierras y llanura",
+    "intro": "San Luis fue tierra de comechingones y huarpes, aportó soldados al Ejército de los Andes y hoy combina sierras con una red de rutas muy cuidada.",
+    "hitos": [
+      {
+        "fecha": "Antes de 1500",
+        "titulo": "Comechingones y huarpes",
+        "texto": "Pueblos que dejaron morteros y pinturas en las rocas, como en la gruta de Intihuasi."
+      },
+      {
+        "fecha": "1594",
+        "titulo": "Fundación de San Luis",
+        "texto": "Luis Jufré de Loaysa y Meneses funda la ciudad."
+      },
+      {
+        "fecha": "1817",
+        "titulo": "Ejército de los Andes",
+        "texto": "San Luis aporta hombres, caballos y recursos para el Cruce de los Andes."
+      },
+      {
+        "fecha": "Siglo XIX",
+        "titulo": "La Carolina",
+        "texto": "Un pueblo minero crece alrededor de la explotación de oro."
+      },
+      {
+        "fecha": "1991",
+        "titulo": "Sierra de las Quijadas",
+        "texto": "Se crea el parque nacional, donde se hallaron fósiles de pterosaurios."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Sierra de las Quijadas",
+      "zona": "Noroeste",
+      "descripcion": "El Potrero de la Aguada, un anfiteatro natural de paredes rojas.",
+      "imagen": "/provincias/san-luis/sierra-de-las-quijadas.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Merlo",
+      "zona": "Noreste, sobre las sierras",
+      "descripcion": "Clima templado todo el año, arroyos y miradores.",
+      "imagen": "/provincias/san-luis/merlo.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Potrero de los Funes",
+      "zona": "A unos 20 km de la capital",
+      "descripcion": "Un lago entre sierras rodeado por un circuito de autos.",
+      "imagen": "/provincias/san-luis/potrero-de-los-funes.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "La Carolina",
+      "zona": "Sierras centrales",
+      "descripcion": "Pueblo minero de piedra donde nació el poeta Juan Crisóstomo Lafinur.",
+      "imagen": "/provincias/san-luis/la-carolina.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Gruta de Intihuasi",
+      "zona": "Cerca de La Carolina",
+      "descripcion": "Una cueva con rastros de antiguos habitantes.",
+      "imagen": "/provincias/san-luis/gruta-de-intihuasi.webp",
+      "color": "#8c3b4a"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cocina criolla y de sierra.",
+    "items": [
+      {
+        "nombre": "Chivito",
+        "texto": "A la parrilla o al asador."
+      },
+      {
+        "nombre": "Empanadas puntanas",
+        "texto": "De carne, al horno de barro."
+      },
+      {
+        "nombre": "Locro",
+        "texto": "Para las fiestas patrias."
+      },
+      {
+        "nombre": "Dulces caseros",
+        "texto": "Mermeladas y dulces de Merlo y las sierras."
+      },
+      {
+        "nombre": "Quesos de cabra",
+        "texto": "En pequeños tambos serranos."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Septiembre a noviembre",
+        "texto": "Primavera en las sierras, ideal para caminar."
+      },
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Temporada de río y lagos. Merlo es la base preferida."
+      },
+      {
+        "nombre": "Abril y mayo",
+        "texto": "Otoño seco y templado."
+      }
+    ],
+    "consejo": "En Sierra de las Quijadas hace mucho calor al mediodía. Recorré temprano y con agua."
+  },
+  "mapa": {
+    "consulta": "San Luis, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 7",
+        "texto": "La autopista que cruza la provincia de este a oeste."
+      },
+      {
+        "nombre": "Ruta 147",
+        "texto": "Hacia Sierra de las Quijadas."
+      },
+      {
+        "nombre": "Ruta 1 provincial",
+        "texto": "La costa de los Comechingones, de Merlo hacia el norte."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por San Luis",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

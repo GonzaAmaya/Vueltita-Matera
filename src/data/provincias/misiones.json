@@ -1,0 +1,157 @@
+{
+  "slug": "misiones",
+  "nombre": "Misiones",
+  "lema": "Las Cataratas del Iguazú, tierra colorada, selva y las ruinas de las misiones jesuíticas.",
+  "hero": "/provincias/misiones/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Posadas"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas a Iguazú"
+    },
+    {
+      "etiqueta": "Maravilla natural",
+      "valor": "Cataratas del Iguazú"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Todo el año"
+    }
+  ],
+  "historia": {
+    "titulo": "Selva, guaraníes y jesuitas",
+    "intro": "Misiones lleva el nombre de las reducciones que los jesuitas fundaron con el pueblo guaraní. Hoy combina esa historia con una de las selvas más ricas del país.",
+    "hitos": [
+      {
+        "fecha": "Antes de 1600",
+        "titulo": "El pueblo guaraní",
+        "texto": "Los guaraníes habitan la selva y cultivan mandioca, maíz y la yerba mate."
+      },
+      {
+        "fecha": "1610",
+        "titulo": "Las reducciones",
+        "texto": "Comienzan las misiones jesuíticas. San Ignacio Miní se instala en su lugar actual a fines del siglo XVII."
+      },
+      {
+        "fecha": "1767",
+        "titulo": "Expulsión de los jesuitas",
+        "texto": "La corona española expulsa a la Compañía de Jesús y las reducciones entran en decadencia."
+      },
+      {
+        "fecha": "1984",
+        "titulo": "Patrimonio de la Humanidad",
+        "texto": "El Parque Nacional Iguazú y, poco después, las ruinas de San Ignacio Miní son reconocidos por la UNESCO."
+      },
+      {
+        "fecha": "2011",
+        "titulo": "Maravilla del mundo",
+        "texto": "Las Cataratas del Iguazú son elegidas una de las siete maravillas naturales del mundo."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Cataratas del Iguazú",
+      "zona": "Puerto Iguazú",
+      "descripcion": "Pasarelas sobre los saltos, la Garganta del Diablo y la selva del Parque Nacional.",
+      "imagen": "/provincias/misiones/cataratas-del-iguazu.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "San Ignacio Miní",
+      "zona": "A unos 60 km de Posadas",
+      "descripcion": "Las ruinas mejor conservadas de una reducción jesuítica, con su iglesia de piedra arenisca roja.",
+      "imagen": "/provincias/misiones/san-ignacio-mini.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "Saltos del Moconá",
+      "zona": "Reserva de Biosfera Yabotí",
+      "descripcion": "Saltos que corren a lo largo del río Uruguay. Se ven solo cuando el río está bajo.",
+      "imagen": "/provincias/misiones/saltos-del-mocona.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Minas de Wanda",
+      "zona": "Ruta 12, camino a Iguazú",
+      "descripcion": "Minas a cielo abierto de amatistas, cuarzos y ágatas.",
+      "imagen": "/provincias/misiones/minas-de-wanda.webp",
+      "color": "#6b4a8c"
+    },
+    {
+      "nombre": "Posadas",
+      "zona": "Capital, frente a Encarnación",
+      "descripcion": "Una costanera larga sobre el Paraná, ideal para caminar al atardecer.",
+      "imagen": "/provincias/misiones/posadas.webp",
+      "color": "#e3a53b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "La cocina misionera mezcla lo guaraní con los inmigrantes europeos.",
+    "items": [
+      {
+        "nombre": "Yerba mate",
+        "texto": "Misiones es la gran productora del país. Se pueden visitar yerbatales y secaderos."
+      },
+      {
+        "nombre": "Chipá",
+        "texto": "Pancito de almidón de mandioca y queso, recién horneado."
+      },
+      {
+        "nombre": "Reviro",
+        "texto": "Masa frita y desmenuzada, el plato humilde y clásico de la provincia."
+      },
+      {
+        "nombre": "Mandioca",
+        "texto": "Hervida o frita, acompaña casi todo."
+      },
+      {
+        "nombre": "Pescados de río",
+        "texto": "Surubí y dorado, a la parrilla o en chupín."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Todo el año",
+        "texto": "Las Cataratas siempre impresionan. El caudal cambia según las lluvias."
+      },
+      {
+        "nombre": "Mayo a septiembre",
+        "texto": "Menos calor y menos humedad: el mejor momento para caminar la selva."
+      },
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Calor y lluvias fuertes. La selva está en su punto más verde."
+      }
+    ],
+    "consejo": "Llevá repelente, ropa liviana y algo impermeable. En la Garganta del Diablo te vas a mojar."
+  },
+  "mapa": {
+    "consulta": "Misiones, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 12",
+        "texto": "De Posadas a Puerto Iguazú, pasando por San Ignacio y Wanda."
+      },
+      {
+        "nombre": "Ruta 14",
+        "texto": "La ruta de la selva, por el centro de la provincia."
+      },
+      {
+        "nombre": "Ruta 2",
+        "texto": "Costera del río Uruguay, hacia El Soberbio y los Saltos del Moconá."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Misiones",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

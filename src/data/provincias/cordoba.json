@@ -1,0 +1,157 @@
+{
+  "slug": "cordoba",
+  "nombre": "Córdoba",
+  "lema": "Sierras, ríos de agua clara, estancias jesuíticas y fernet con coca.",
+  "hero": "/provincias/cordoba/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Córdoba"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de 1 h 15"
+    },
+    {
+      "etiqueta": "Patrimonio UNESCO",
+      "valor": "Manzana y Estancias Jesuíticas"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Todo el año"
+    }
+  ],
+  "historia": {
+    "titulo": "La Docta",
+    "intro": "Córdoba tiene una de las universidades más antiguas de América, la huella de los jesuitas y valles serranos que reciben a miles de turistas.",
+    "hitos": [
+      {
+        "fecha": "Antes de 1500",
+        "titulo": "Comechingones y sanavirones",
+        "texto": "Pueblos agricultores habitan las sierras y dejan pinturas rupestres en cuevas como las de Cerro Colorado."
+      },
+      {
+        "fecha": "1573",
+        "titulo": "Fundación de Córdoba",
+        "texto": "Jerónimo Luis de Cabrera funda la ciudad a orillas del río Suquía."
+      },
+      {
+        "fecha": "1613",
+        "titulo": "La universidad",
+        "texto": "Los jesuitas fundan el colegio que dio origen a la Universidad Nacional de Córdoba."
+      },
+      {
+        "fecha": "1918",
+        "titulo": "Reforma Universitaria",
+        "texto": "Los estudiantes cordobeses impulsan una reforma que cambió las universidades de América Latina."
+      },
+      {
+        "fecha": "2000",
+        "titulo": "Patrimonio de la Humanidad",
+        "texto": "La Manzana Jesuítica y las estancias son declaradas Patrimonio de la Humanidad."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Manzana Jesuítica",
+      "zona": "Centro de Córdoba",
+      "descripcion": "La Compañía de Jesús, el Colegio Monserrat y la universidad, en una sola manzana.",
+      "imagen": "/provincias/cordoba/manzana-jesuitica.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Valle de Punilla",
+      "zona": "Al oeste de la capital",
+      "descripcion": "Villa Carlos Paz, Cosquín, La Cumbre y Capilla del Monte con el cerro Uritorco.",
+      "imagen": "/provincias/cordoba/valle-de-punilla.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Traslasierra",
+      "zona": "Detrás de las Altas Cumbres",
+      "descripcion": "Mina Clavero, Nono y ríos de piedra para pasar el día.",
+      "imagen": "/provincias/cordoba/traslasierra.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Valle de Calamuchita",
+      "zona": "Sur de la capital",
+      "descripcion": "Villa General Belgrano, lagos y cervecerías artesanales.",
+      "imagen": "/provincias/cordoba/valle-de-calamuchita.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Estancias jesuíticas",
+      "zona": "Jesús María, Alta Gracia y otras",
+      "descripcion": "Antiguas estancias que sostenían a los jesuitas, hoy museos.",
+      "imagen": "/provincias/cordoba/estancias-jesuiticas.webp",
+      "color": "#a8442a"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Córdoba tiene sabores propios y un trago que es casi una bandera.",
+    "items": [
+      {
+        "nombre": "Fernet con coca",
+        "texto": "El trago cordobés por excelencia."
+      },
+      {
+        "nombre": "Salame de Colonia Caroya",
+        "texto": "Tradición de los inmigrantes friulanos."
+      },
+      {
+        "nombre": "Alfajor cordobés",
+        "texto": "Relleno de dulce y cubierto de glaseado."
+      },
+      {
+        "nombre": "Empanadas cordobesas",
+        "texto": "De carne, con un toque dulce."
+      },
+      {
+        "nombre": "Cerveza artesanal",
+        "texto": "Calamuchita tiene muchas cervecerías y la Oktoberfest."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Temporada alta en las sierras: ríos, balnearios y festivales."
+      },
+      {
+        "nombre": "Enero",
+        "texto": "Festival Nacional de Folklore de Cosquín."
+      },
+      {
+        "nombre": "Octubre",
+        "texto": "Fiesta Nacional de la Cerveza en Villa General Belgrano."
+      }
+    ],
+    "consejo": "En verano llueve fuerte a la tarde y los ríos pueden crecer de golpe. Salí del agua si oscurece el cielo."
+  },
+  "mapa": {
+    "consulta": "Córdoba, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 38",
+        "texto": "Atraviesa el Valle de Punilla, de Carlos Paz a Capilla del Monte."
+      },
+      {
+        "nombre": "Ruta 5 provincial",
+        "texto": "Hacia el Valle de Calamuchita y Villa General Belgrano."
+      },
+      {
+        "nombre": "Camino de las Altas Cumbres",
+        "texto": "Cruza las sierras hacia Traslasierra y Mina Clavero."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Córdoba",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "catamarca",
+  "nombre": "Catamarca",
+  "lema": "Volcanes de más de 6.000 metros, dunas, termas y la puna más solitaria del país.",
+  "hero": "/provincias/catamarca/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "San Fernando del Valle de Catamarca"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Pico más alto",
+      "valor": "Ojos del Salado, 6.893 m"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Marzo a mayo y septiembre a noviembre"
+    }
+  ],
+  "historia": {
+    "titulo": "Tierra de seismiles",
+    "intro": "Catamarca guarda caminos incas, la fe de la Virgen del Valle y el volcán más alto del mundo. Es una provincia para viajar despacio y lejos.",
+    "hitos": [
+      {
+        "fecha": "Siglos VI a X",
+        "titulo": "Cultura de La Aguada",
+        "texto": "Pueblos de los valles desarrollan una cerámica y una metalurgia de gran calidad."
+      },
+      {
+        "fecha": "Siglo XV",
+        "titulo": "El Shincal",
+        "texto": "El Inca levanta El Shincal de Quimivil, un centro administrativo con plaza y escalinatas que se puede recorrer."
+      },
+      {
+        "fecha": "1683",
+        "titulo": "Fundación de la capital",
+        "texto": "Fernando de Mendoza Mate de Luna funda San Fernando del Valle de Catamarca."
+      },
+      {
+        "fecha": "Siglo XVII",
+        "titulo": "La Virgen del Valle",
+        "texto": "Comienza la devoción a la Virgen del Valle, patrona de la provincia, que hoy convoca peregrinaciones multitudinarias."
+      },
+      {
+        "fecha": "Hoy",
+        "titulo": "El volcán más alto",
+        "texto": "El Ojos del Salado, en la frontera con Chile, es el volcán más alto del mundo."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Fiambalá",
+      "zona": "Oeste, Ruta 60",
+      "descripcion": "Termas en la montaña, dunas gigantes y bodegas. Base para la Ruta de los Seismiles.",
+      "imagen": "/provincias/catamarca/fiambala.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Ruta de los Seismiles",
+      "zona": "Hacia el Paso San Francisco",
+      "descripcion": "Un camino entre volcanes de más de 6.000 metros, lagunas y vicuñas.",
+      "imagen": "/provincias/catamarca/ruta-de-los-seismiles.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Campo de Piedra Pómez",
+      "zona": "Antofagasta de la Sierra",
+      "descripcion": "Un mar de formaciones blancas de piedra volcánica en plena puna.",
+      "imagen": "/provincias/catamarca/campo-de-piedra-pomez.webp",
+      "color": "#d9cfc1"
+    },
+    {
+      "nombre": "El Shincal de Quimivil",
+      "zona": "Londres, Belén",
+      "descripcion": "Ruinas incas con plataformas ceremoniales y vistas al valle.",
+      "imagen": "/provincias/catamarca/el-shincal-de-quimivil.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "San Fernando del Valle",
+      "zona": "Capital",
+      "descripcion": "La Catedral Basílica de la Virgen del Valle y la Cuesta de El Portezuelo.",
+      "imagen": "/provincias/catamarca/san-fernando-del-valle.webp",
+      "color": "#8c3b4a"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "En Catamarca mandan la nuez, el olivo y las tradiciones de los valles.",
+    "items": [
+      {
+        "nombre": "Nueces y dulces regionales",
+        "texto": "Dulce de cayote, de membrillo y nueces de los valles."
+      },
+      {
+        "nombre": "Empanadas catamarqueñas",
+        "texto": "De carne, con papa y huevo, al horno de barro."
+      },
+      {
+        "nombre": "Aceite de oliva",
+        "texto": "Los olivares del valle producen aceites de calidad."
+      },
+      {
+        "nombre": "Vinos de Tinogasta y Fiambalá",
+        "texto": "Viñedos de altura con historia antigua."
+      },
+      {
+        "nombre": "Locro y cabrito",
+        "texto": "Platos de fiesta en todo el norte."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Marzo a mayo y septiembre a noviembre",
+        "texto": "Temperaturas agradables en los valles y caminos abiertos a la puna."
+      },
+      {
+        "nombre": "Diciembre a febrero",
+        "texto": "Mucho calor en los valles bajos. En la puna puede haber tormentas."
+      },
+      {
+        "nombre": "Julio",
+        "texto": "Fiesta Nacional e Internacional del Poncho en la capital."
+      }
+    ],
+    "consejo": "La Ruta de los Seismiles y Antofagasta tienen pocos servicios. Cargá combustible, llevá agua y avisá tu recorrido."
+  },
+  "mapa": {
+    "consulta": "Catamarca, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 60",
+        "texto": "De Tinogasta a Fiambalá y hasta el Paso San Francisco."
+      },
+      {
+        "nombre": "Ruta 40",
+        "texto": "Por Belén, Londres y El Shincal."
+      },
+      {
+        "nombre": "Ruta 43",
+        "texto": "Hacia Antofagasta de la Sierra y el Campo de Piedra Pómez."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Catamarca",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

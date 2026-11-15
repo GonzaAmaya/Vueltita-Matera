@@ -1,0 +1,195 @@
+.historia {
+  padding-block: clamp(4rem, 9vw, 7rem) clamp(2rem, 4vw, 3rem);
+  background: linear-gradient(180deg, var(--vm-crema), var(--vm-crema-2));
+}
+
+.historia-intro {
+  max-width: 44rem;
+}
+
+.historia-intro p {
+  margin-top: 1rem;
+  font-size: clamp(1.1rem, 1.8vw, 1.3rem);
+  color: var(--vm-cafe);
+}
+
+/*
+ * Línea de tiempo en carrusel infinito (ver useCarruselInfinito.js).
+ * La ventana recorta en horizontal sin ser scrolleable (overflow-x: clip),
+ * y la pista se desliza con transform según la variable --i.
+ */
+.historia-ventana {
+  margin-top: 3rem;
+  overflow-x: clip;
+}
+
+.historia-linea {
+  --gap: 1.5rem;
+  --visibles: 4;
+
+  list-style: none;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% - (var(--visibles) - 1) * var(--gap)) / var(--visibles));
+  gap: var(--gap);
+  /* Deja lugar arriba para la línea y los puntos */
+  padding: 2rem 0 0.5rem;
+  transform: translateX(calc(var(--i, 0) * (100% + var(--gap)) / var(--visibles) * -1));
+  transition: transform 0.9s cubic-bezier(0.65, 0, 0.35, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .historia-linea {
+    transition: none;
+  }
+}
+
+@media (max-width: 900px) {
+  .historia-linea {
+    --visibles: 2;
+  }
+}
+
+@media (max-width: 560px) {
+  .historia-linea {
+    --visibles: 1;
+  }
+}
+
+.historia-hito {
+  position: relative;
+}
+
+/* Punto del hito */
+.historia-hito::before {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  top: -2rem;
+  left: 0;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--vm-tierra);
+  box-shadow: 0 0 0 4px var(--vm-crema);
+}
+
+/* Tramo de línea hasta el hito siguiente (cruza el gap) */
+.historia-hito::after {
+  content: "";
+  position: absolute;
+  top: calc(-2rem + 5px);
+  left: 0;
+  right: calc(-1 * var(--gap));
+  height: 2px;
+  background: rgba(210, 105, 30, 0.35);
+  transform-origin: left;
+}
+
+.historia-hito:last-child::after {
+  right: 0;
+}
+
+.historia-fecha {
+  font-family: var(--vm-display);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--vm-tierra);
+}
+
+.historia-hito h3 {
+  margin: 0.25rem 0 0.4rem;
+  font-family: var(--vm-display);
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.historia-hito p {
+  font-size: 1rem;
+  color: var(--vm-cafe);
+}
+
+.estadisticas {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 3rem;
+}
+
+.estadistica {
+  padding: 1.5rem;
+  background: rgba(255, 255, 255, 0.55);
+  border-radius: 16px;
+}
+
+.estadistica dt {
+  font-family: var(--vm-display);
+  font-size: clamp(2rem, 4.5vw, 3rem);
+  font-weight: 800;
+  line-height: 1;
+  color: #b8622e;
+}
+
+.estadistica dd {
+  margin-top: 0.4rem;
+  color: var(--vm-cafe);
+}
+
+@media (max-width: 640px) {
+  .estadisticas {
+    grid-template-columns: 1fr;
+  }
+}
+
+.estadistica {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+@media (hover: hover) {
+  .estadistica:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(74, 56, 38, 0.12);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  /* La ventana no se desvanece entera: aparecen los hitos de a uno */
+  .historia-ventana[data-reveal] {
+    opacity: 1;
+    transform: none;
+  }
+
+  .historia-hito {
+    opacity: 0;
+    transform: translateY(28px);
+    transition:
+      opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+    transition-delay: calc(var(--d, 0) * 90ms);
+  }
+
+  .historia-ventana[data-shown] .historia-hito {
+    opacity: 1;
+    transform: none;
+  }
+
+  .historia-hito::after {
+    transform: scaleX(0);
+    transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+    transition-delay: calc(var(--d, 0) * 90ms + 0.1s);
+  }
+
+  .historia-ventana[data-shown] .historia-hito::after {
+    transform: scaleX(1);
+  }
+
+  .historia-hito::before {
+    transform: scale(0);
+    transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+    transition-delay: calc(var(--d, 0) * 90ms + 0.2s);
+  }
+
+  .historia-ventana[data-shown] .historia-hito::before {
+    transform: scale(1);
+  }
+}

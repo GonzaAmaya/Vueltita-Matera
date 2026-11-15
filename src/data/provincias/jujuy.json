@@ -1,0 +1,157 @@
+{
+  "slug": "jujuy",
+  "nombre": "Jujuy",
+  "lema": "Cerros de siete colores, pueblos de adobe y una quebrada que es Patrimonio de la Humanidad.",
+  "hero": "/provincias/jujuy/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "San Salvador de Jujuy"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 2 horas"
+    },
+    {
+      "etiqueta": "Altura de Humahuaca",
+      "valor": "Casi 3.000 m"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Abril a noviembre"
+    }
+  ],
+  "historia": {
+    "titulo": "Diez mil años de historia en una quebrada",
+    "intro": "La Quebrada de Humahuaca fue camino de pueblos originarios, del Inca, de los españoles y de los ejércitos de la independencia. Todo ese pasado sigue a la vista en sus pueblos, sus fiestas y su arquitectura.",
+    "hitos": [
+      {
+        "fecha": "Hace 10.000 años",
+        "titulo": "Los primeros habitantes",
+        "texto": "Grupos de cazadores recolectores recorren la quebrada, una de las rutas más antiguas del continente."
+      },
+      {
+        "fecha": "Siglo XV",
+        "titulo": "Pucarás y Camino del Inca",
+        "texto": "Los pueblos omaguacas levantan pucarás, poblados fortificados en altura, como el de Tilcara. Después llega el Imperio Inca con su red de caminos."
+      },
+      {
+        "fecha": "1593",
+        "titulo": "Fundación de San Salvador",
+        "texto": "Francisco de Argañaraz funda la ciudad, paso clave entre el Alto Perú y el Río de la Plata."
+      },
+      {
+        "fecha": "1812",
+        "titulo": "El Éxodo Jujeño",
+        "texto": "El 23 de agosto, por orden de Belgrano, el pueblo abandona la ciudad y quema lo que no puede llevar para no dejarle nada al ejército realista."
+      },
+      {
+        "fecha": "2003",
+        "titulo": "Patrimonio de la Humanidad",
+        "texto": "La UNESCO declara a la Quebrada de Humahuaca Patrimonio de la Humanidad como paisaje cultural."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Purmamarca",
+      "zona": "Quebrada de Humahuaca, Ruta 52",
+      "descripcion": "Un pueblo de adobe al pie del Cerro de los Siete Colores. El Paseo de los Colorados lo rodea en una caminata corta.",
+      "imagen": "/provincias/jujuy/purmamarca.webp",
+      "color": "#b5543c"
+    },
+    {
+      "nombre": "Tilcara",
+      "zona": "Quebrada de Humahuaca, Ruta 9",
+      "descripcion": "El Pucará reconstruido, el jardín botánico de altura y una plaza con artesanos. Buena base para recorrer la quebrada.",
+      "imagen": "/provincias/jujuy/tilcara.webp",
+      "color": "#c98a4b"
+    },
+    {
+      "nombre": "Serranía de Hornocal",
+      "zona": "A unos 25 km de Humahuaca",
+      "descripcion": "Un cordón de cerros con franjas de muchos colores que se mira desde un mirador a más de 4.000 metros.",
+      "imagen": "/provincias/jujuy/serrania-de-hornocal.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Salinas Grandes",
+      "zona": "Puna, compartidas con Salta",
+      "descripcion": "Un desierto blanco de sal a más de 3.400 metros, al que se llega por la Cuesta de Lipán.",
+      "imagen": "/provincias/jujuy/salinas-grandes.webp",
+      "color": "#23305e"
+    },
+    {
+      "nombre": "Humahuaca",
+      "zona": "Norte de la quebrada",
+      "descripcion": "El Monumento a la Independencia, calles empedradas y el punto de partida hacia Iruya y el Hornocal.",
+      "imagen": "/provincias/jujuy/humahuaca.webp",
+      "color": "#e3a53b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "La cocina jujeña es andina: maíz, papas, quinoa y carnes de altura.",
+    "items": [
+      {
+        "nombre": "Tamales y humitas",
+        "texto": "Masa de maíz con relleno, envuelta en chala y cocida al vapor."
+      },
+      {
+        "nombre": "Locro",
+        "texto": "Guiso de maíz, porotos y carnes, ideal para las noches frías de la quebrada."
+      },
+      {
+        "nombre": "Carne de llama",
+        "texto": "Magra y suave. Se sirve en guisos, milanesas o empanadas."
+      },
+      {
+        "nombre": "Papas andinas",
+        "texto": "Hay decenas de variedades de colores. Se cultivan desde hace siglos en la quebrada y la puna."
+      },
+      {
+        "nombre": "Api con pastelitos",
+        "texto": "Bebida caliente de maíz morado, para acompañar con algo dulce."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Abril a noviembre",
+        "texto": "Temporada seca: días soleados y noches frías. La mejor época para recorrer la quebrada y la puna."
+      },
+      {
+        "nombre": "Diciembre a marzo",
+        "texto": "Llueve, sobre todo a la tarde, y el paisaje se pone verde. Algunos caminos pueden cortarse."
+      },
+      {
+        "nombre": "Febrero o marzo",
+        "texto": "Carnaval de la quebrada: comparsas, coplas y el desentierro del diablo. Las fechas cambian cada año."
+      }
+    ],
+    "consejo": "La quebrada supera los 2.500 metros y la puna los 3.500. Tomá agua, comé liviano y andá despacio el primer día."
+  },
+  "mapa": {
+    "consulta": "Jujuy, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 9",
+        "texto": "Recorre toda la Quebrada de Humahuaca: Purmamarca, Tilcara, Humahuaca."
+      },
+      {
+        "nombre": "Ruta 52",
+        "texto": "De Purmamarca a las Salinas Grandes por la Cuesta de Lipán."
+      },
+      {
+        "nombre": "Ruta 73 y camino a Iruya",
+        "texto": "Desde Humahuaca hacia Iruya, un pueblo colgado de la montaña. Conviene ir con alguien que conozca el camino."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Jujuy",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

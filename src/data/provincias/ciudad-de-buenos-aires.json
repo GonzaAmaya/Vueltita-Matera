@@ -1,0 +1,157 @@
+{
+  "slug": "ciudad-de-buenos-aires",
+  "nombre": "Ciudad de Buenos Aires",
+  "lema": "Tango, cafés notables, barrios con personalidad propia y una vida cultural que no para.",
+  "hero": "/provincias/ciudad-de-buenos-aires/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Barrios",
+      "valor": "48, en 15 comunas"
+    },
+    {
+      "etiqueta": "Habitantes",
+      "valor": "Unos 3 millones"
+    },
+    {
+      "etiqueta": "Aeropuertos",
+      "valor": "Aeroparque y Ezeiza"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Marzo a mayo y septiembre a noviembre"
+    }
+  ],
+  "historia": {
+    "titulo": "La Reina del Plata",
+    "intro": "Buenos Aires creció de una aldea junto al río a una de las grandes capitales de América. Cada barrio cuenta una parte de esa historia.",
+    "hitos": [
+      {
+        "fecha": "1580",
+        "titulo": "La segunda fundación",
+        "texto": "Juan de Garay funda definitivamente la ciudad, después del intento de Pedro de Mendoza en 1536."
+      },
+      {
+        "fecha": "1810",
+        "titulo": "Revolución de Mayo",
+        "texto": "Frente al Cabildo, el 25 de mayo se forma la Primera Junta de gobierno."
+      },
+      {
+        "fecha": "1880",
+        "titulo": "Capital Federal",
+        "texto": "La ciudad se federaliza y se convierte en la capital del país."
+      },
+      {
+        "fecha": "1936",
+        "titulo": "El Obelisco",
+        "texto": "Se levanta el Obelisco para celebrar los 400 años de la primera fundación."
+      },
+      {
+        "fecha": "1996",
+        "titulo": "Ciudad Autónoma",
+        "texto": "La ciudad sanciona su propia constitución y elige por primera vez a su jefe de gobierno."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "San Telmo",
+      "zona": "Sur de la ciudad",
+      "descripcion": "Casas antiguas, anticuarios y la feria de la calle Defensa los domingos.",
+      "imagen": "/provincias/ciudad-de-buenos-aires/san-telmo.webp",
+      "color": "#a8442a"
+    },
+    {
+      "nombre": "La Boca y Caminito",
+      "zona": "Junto al Riachuelo",
+      "descripcion": "Casas de chapa de colores, tango en la calle y la cancha de Boca.",
+      "imagen": "/provincias/ciudad-de-buenos-aires/la-boca-y-caminito.webp",
+      "color": "#e3a53b"
+    },
+    {
+      "nombre": "Recoleta",
+      "zona": "Norte",
+      "descripcion": "El cementerio con sus bóvedas monumentales, museos y cafés.",
+      "imagen": "/provincias/ciudad-de-buenos-aires/recoleta.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Palermo",
+      "zona": "Norte",
+      "descripcion": "Bosques, el Jardín Japonés, bares y restaurantes en Palermo Soho y Hollywood.",
+      "imagen": "/provincias/ciudad-de-buenos-aires/palermo.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Teatro Colón y Avenida de Mayo",
+      "zona": "Centro",
+      "descripcion": "Uno de los grandes teatros líricos del mundo y la avenida de los cafés históricos.",
+      "imagen": "/provincias/ciudad-de-buenos-aires/teatro-colon-y-avenida-de-mayo.webp",
+      "color": "#23305e"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Buenos Aires se come a toda hora, y se cena tarde.",
+    "items": [
+      {
+        "nombre": "Parrilla",
+        "texto": "Bife de chorizo, vacío y provoleta en cualquier bodegón."
+      },
+      {
+        "nombre": "Pizza porteña",
+        "texto": "Al molde, con mucho queso, y la fugazzeta como clásico."
+      },
+      {
+        "nombre": "Café con medialunas",
+        "texto": "En los cafés notables, como el Tortoni."
+      },
+      {
+        "nombre": "Helado artesanal",
+        "texto": "Las heladerías abren hasta tarde, también en invierno."
+      },
+      {
+        "nombre": "Vermut",
+        "texto": "La costumbre del aperitivo volvió con fuerza."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Marzo a mayo",
+        "texto": "Otoño templado, ideal para caminar la ciudad."
+      },
+      {
+        "nombre": "Septiembre a noviembre",
+        "texto": "Primavera: en noviembre florecen los jacarandás violetas."
+      },
+      {
+        "nombre": "Agosto",
+        "texto": "Festival y Mundial de Tango, con clases y milongas abiertas."
+      }
+    ],
+    "consejo": "El verano es caluroso y húmedo. Para caminar, aprovechá la mañana y el atardecer."
+  },
+  "mapa": {
+    "consulta": "Ciudad de Buenos Aires, Argentina",
+    "rutas": [
+      {
+        "nombre": "Subte",
+        "texto": "Seis líneas que conectan el centro con los barrios. Se paga con la tarjeta SUBE."
+      },
+      {
+        "nombre": "Colectivos",
+        "texto": "Llegan a todos lados, de día y de noche, también con SUBE."
+      },
+      {
+        "nombre": "Bicicletas públicas",
+        "texto": "Ecobici y una red de ciclovías protegidas."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Ciudad de Buenos Aires",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}

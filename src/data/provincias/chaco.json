@@ -1,0 +1,157 @@
+{
+  "slug": "chaco",
+  "nombre": "Chaco",
+  "lema": "Ciudad de esculturas, monte nativo, meteoritos y la cultura de los pueblos qom, wichí y moqoit.",
+  "hero": "/provincias/chaco/hero.webp",
+  "datos": [
+    {
+      "etiqueta": "Capital",
+      "valor": "Resistencia"
+    },
+    {
+      "etiqueta": "Desde Buenos Aires",
+      "valor": "Vuelo de unas 1 h 30"
+    },
+    {
+      "etiqueta": "Apodo de la capital",
+      "valor": "Ciudad de las Esculturas"
+    },
+    {
+      "etiqueta": "Mejor época",
+      "valor": "Abril a octubre"
+    }
+  ],
+  "historia": {
+    "titulo": "El Impenetrable y la ciudad de las esculturas",
+    "intro": "Chaco tiene uno de los montes nativos más grandes del país y una capital que se volvió museo a cielo abierto.",
+    "hitos": [
+      {
+        "fecha": "Hace unos 4.000 años",
+        "titulo": "Lluvia de meteoritos",
+        "texto": "Cae en la zona de Campo del Cielo una lluvia de meteoritos de hierro. Algunos pesan varias toneladas."
+      },
+      {
+        "fecha": "Siempre",
+        "titulo": "Pueblos originarios",
+        "texto": "Qom, wichí y moqoit habitan el monte chaqueño y mantienen su lengua y sus artesanías."
+      },
+      {
+        "fecha": "1878",
+        "titulo": "Fundación de Resistencia",
+        "texto": "Llegan los primeros colonos, en gran parte italianos, a la actual capital."
+      },
+      {
+        "fecha": "1951",
+        "titulo": "Provincia",
+        "texto": "El territorio nacional del Chaco se convierte en provincia."
+      },
+      {
+        "fecha": "1988",
+        "titulo": "La Bienal de Escultura",
+        "texto": "Comienza el concurso de escultura que llenó la ciudad de obras en sus veredas."
+      }
+    ]
+  },
+  "lugares": [
+    {
+      "nombre": "Resistencia",
+      "zona": "Capital",
+      "descripcion": "Cientos de esculturas en sus calles y la Bienal, donde se tallan obras en vivo.",
+      "imagen": "/provincias/chaco/resistencia.webp",
+      "color": "#8c3b4a"
+    },
+    {
+      "nombre": "Campo del Cielo",
+      "zona": "Gancedo, suroeste",
+      "descripcion": "Un parque con meteoritos gigantes, entre ellos uno de los más pesados del mundo.",
+      "imagen": "/provincias/chaco/campo-del-cielo.webp",
+      "color": "#3b3b46"
+    },
+    {
+      "nombre": "El Impenetrable",
+      "zona": "Noroeste",
+      "descripcion": "Monte nativo con el Parque Nacional El Impenetrable, a orillas del río Bermejito.",
+      "imagen": "/provincias/chaco/el-impenetrable.webp",
+      "color": "#4f7a4a"
+    },
+    {
+      "nombre": "Parque Nacional Chaco",
+      "zona": "Capitán Solari",
+      "descripcion": "Quebrachos colorados centenarios, esteros y monos aulladores.",
+      "imagen": "/provincias/chaco/parque-nacional-chaco.webp",
+      "color": "#2f5e4e"
+    },
+    {
+      "nombre": "Isla del Cerrito",
+      "zona": "Confluencia del Paraná y el Paraguay",
+      "descripcion": "Playas de río y pesca deportiva cerca de la capital.",
+      "imagen": "/provincias/chaco/isla-del-cerrito.webp",
+      "color": "#e3a53b"
+    }
+  ],
+  "sabores": {
+    "titulo": "Qué comer y beber",
+    "intro": "Cocina de río y de monte, con influencia guaraní.",
+    "items": [
+      {
+        "nombre": "Pescados de río",
+        "texto": "Surubí, pacú y dorado a la parrilla."
+      },
+      {
+        "nombre": "Chipá",
+        "texto": "El pan de mandioca y queso de todo el litoral."
+      },
+      {
+        "nombre": "Mbejú",
+        "texto": "Tortilla de almidón y queso."
+      },
+      {
+        "nombre": "Asado criollo",
+        "texto": "En las estancias y pueblos del interior."
+      },
+      {
+        "nombre": "Miel del monte",
+        "texto": "Producida por apicultores del interior chaqueño."
+      }
+    ]
+  },
+  "cuando": {
+    "titulo": "Cuándo ir",
+    "epocas": [
+      {
+        "nombre": "Abril a octubre",
+        "texto": "El clima es más amable para salir al monte y a los parques."
+      },
+      {
+        "nombre": "Noviembre a marzo",
+        "texto": "Calor intenso y lluvias. Mejor quedarse cerca del río."
+      },
+      {
+        "nombre": "Julio de años pares",
+        "texto": "Bienal Internacional de Escultura en Resistencia."
+      }
+    ],
+    "consejo": "Para El Impenetrable conviene ir con guía y vehículo alto: hay caminos de tierra."
+  },
+  "mapa": {
+    "consulta": "Chaco, Argentina",
+    "rutas": [
+      {
+        "nombre": "Ruta 16",
+        "texto": "De Resistencia hacia Campo del Cielo y el oeste."
+      },
+      {
+        "nombre": "Puente General Belgrano",
+        "texto": "Une Resistencia con Corrientes, del otro lado del Paraná."
+      },
+      {
+        "nombre": "Ruta 95",
+        "texto": "Hacia el norte y El Impenetrable."
+      }
+    ]
+  },
+  "asistente": {
+    "titulo": "Armá tu viaje por Chaco",
+    "texto": "Contale al asistente cuántos días tenés y qué te gusta, y te propone un recorrido."
+  }
+}
