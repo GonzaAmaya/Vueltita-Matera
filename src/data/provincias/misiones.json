@@ -3,6 +3,18 @@
   "nombre": "Misiones",
   "lema": "Las Cataratas del Iguazú, tierra colorada, selva y las ruinas de las misiones jesuíticas.",
   "hero": "/provincias/misiones/hero.webp",
+  "estilo": {
+    "silueta": "sierras",
+    "cielo": "#1a3a2a",
+    "acento": "#8a3220",
+    "paleta": [
+      "#b84a2a",
+      "#2f6a3a",
+      "#d8743a",
+      "#5a8a3a",
+      "#e8d8b0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "Llevá repelente, ropa liviana y algo impermeable. En la Garganta del Diablo te vas a mojar."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta Nacional del Inmigrante",
+      "lugar": "Oberá",
+      "mes": 9,
+      "fecha": "Septiembre",
+      "texto": "Las colectividades levantan sus casas típicas en el Parque de las Naciones."
+    },
+    {
+      "nombre": "Fiesta Nacional de la Yerba Mate",
+      "lugar": "Apóstoles",
+      "mes": 11,
+      "fecha": "Noviembre",
+      "texto": "Celebra la yerba en la capital nacional de su cultivo, con feria y espectáculos."
+    }
+  ],
   "mapa": {
     "consulta": "Misiones, Argentina",
     "rutas": [

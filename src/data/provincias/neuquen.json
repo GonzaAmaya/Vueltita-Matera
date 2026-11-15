@@ -3,6 +3,18 @@
   "nombre": "Neuquén",
   "lema": "Lagos de cordillera, bosques de pehuenes, volcanes y huellas de dinosaurios gigantes.",
   "hero": "/provincias/neuquen/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#1b2f4a",
+    "acento": "#2a4a6a",
+    "paleta": [
+      "#3a6a8a",
+      "#8ab0c8",
+      "#2a4a3a",
+      "#6a8a5a",
+      "#e8eef0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,29 @@
     ],
     "consejo": "En la cordillera el clima cambia rápido. Llevá abrigo aunque sea verano."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta Nacional de la Confluencia",
+      "lugar": "Neuquén capital",
+      "mes": 2,
+      "fecha": "Febrero",
+      "texto": "Grandes recitales a orillas del río Limay."
+    },
+    {
+      "nombre": "Temporada de esquí",
+      "lugar": "Chapelco, Cerro Bayo y Caviahue",
+      "mes": 7,
+      "fecha": "Junio a septiembre",
+      "texto": "Centros de esquí con nieve de cordillera y vistas a lagos y volcanes."
+    },
+    {
+      "nombre": "Fiesta Nacional del Montañés",
+      "lugar": "San Martín de los Andes",
+      "mes": 8,
+      "fecha": "Invierno",
+      "texto": "Competencias en la nieve, bajada de antorchas y espectáculos."
+    }
+  ],
   "mapa": {
     "consulta": "Neuquén, Argentina",
     "rutas": [

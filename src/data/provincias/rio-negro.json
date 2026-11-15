@@ -3,6 +3,18 @@
   "nombre": "Río Negro",
   "lema": "Bariloche, el chocolate, el Nahuel Huapi y playas de agua cálida en el Atlántico.",
   "hero": "/provincias/rio-negro/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#1b2f4a",
+    "acento": "#24527a",
+    "paleta": [
+      "#2f6a8a",
+      "#a8c8d8",
+      "#3a5a3a",
+      "#c8a86a",
+      "#f0f2ee"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,36 @@
     ],
     "consejo": "En julio Bariloche se llena de viajes de egresados y vacaciones de invierno. Reservá con anticipación."
   },
+  "eventos": [
+    {
+      "nombre": "Regata Internacional del Río Negro",
+      "lugar": "De Neuquén a Viedma",
+      "mes": 1,
+      "fecha": "Enero",
+      "texto": "Una de las regatas de canotaje más largas del mundo, en varias etapas."
+    },
+    {
+      "nombre": "Fiesta Nacional de la Manzana",
+      "lugar": "General Roca",
+      "mes": 2,
+      "fecha": "Febrero o marzo",
+      "texto": "Celebra la cosecha del Alto Valle con recitales y elección de reina."
+    },
+    {
+      "nombre": "Fiesta Nacional del Chocolate",
+      "lugar": "San Carlos de Bariloche",
+      "mes": 4,
+      "fecha": "Semana Santa",
+      "texto": "La barra de chocolate más larga del mundo, huevos de Pascua gigantes y degustaciones."
+    },
+    {
+      "nombre": "Fiesta Nacional de la Nieve",
+      "lugar": "San Carlos de Bariloche",
+      "mes": 8,
+      "fecha": "Agosto",
+      "texto": "Bajada de antorchas en el Cerro Catedral, desfiles y fuegos artificiales."
+    }
+  ],
   "mapa": {
     "consulta": "Río Negro, Argentina",
     "rutas": [

@@ -3,6 +3,18 @@
   "nombre": "Ciudad de Buenos Aires",
   "lema": "Tango, cafés notables, barrios con personalidad propia y una vida cultural que no para.",
   "hero": "/provincias/ciudad-de-buenos-aires/hero.webp",
+  "estilo": {
+    "silueta": "ciudad",
+    "cielo": "#1f2a44",
+    "acento": "#3a4a6a",
+    "paleta": [
+      "#74acdf",
+      "#c8c8c8",
+      "#b85a3a",
+      "#f0d050",
+      "#f2f2f2"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Barrios",
@@ -133,6 +145,36 @@
     ],
     "consejo": "El verano es caluroso y húmedo. Para caminar, aprovechá la mañana y el atardecer."
   },
+  "eventos": [
+    {
+      "nombre": "BAFICI",
+      "lugar": "Varias salas de la ciudad",
+      "mes": 4,
+      "fecha": "Abril",
+      "texto": "Festival Internacional de Cine Independiente, con cientos de películas y funciones gratuitas."
+    },
+    {
+      "nombre": "Feria Internacional del Libro",
+      "lugar": "La Rural, Palermo",
+      "mes": 5,
+      "fecha": "Fines de abril a mediados de mayo",
+      "texto": "Una de las ferias del libro más grandes de habla hispana, con charlas y firmas de autores."
+    },
+    {
+      "nombre": "Tango BA Festival y Mundial",
+      "lugar": "Varias sedes",
+      "mes": 8,
+      "fecha": "Agosto",
+      "texto": "Clases, milongas y shows gratis, y la competencia mundial de baile de tango."
+    },
+    {
+      "nombre": "La Noche de los Museos",
+      "lugar": "Toda la ciudad",
+      "mes": 11,
+      "fecha": "Una noche entre octubre y noviembre",
+      "texto": "Cientos de museos y espacios culturales abren gratis hasta la madrugada."
+    }
+  ],
   "mapa": {
     "consulta": "Ciudad de Buenos Aires, Argentina",
     "rutas": [

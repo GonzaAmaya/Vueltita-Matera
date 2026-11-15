@@ -3,6 +3,18 @@
   "nombre": "San Juan",
   "lema": "El Valle de la Luna, cielos perfectos para mirar estrellas y viñedos de Syrah.",
   "hero": "/provincias/san-juan/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#2a2f4a",
+    "acento": "#86462c",
+    "paleta": [
+      "#b9673f",
+      "#9a9a8a",
+      "#d8b48a",
+      "#7a4a3a",
+      "#efe0c8"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "Ischigualasto se recorre en caravana con guía. Hay recorridos especiales en noches de luna llena."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta Nacional del Sol",
+      "lugar": "San Juan capital",
+      "mes": 2,
+      "fecha": "Febrero",
+      "texto": "Carrusel de carros alegóricos, feria y espectáculo central en el Autódromo El Villicum."
+    },
+    {
+      "nombre": "Peregrinación a la Difunta Correa",
+      "lugar": "Vallecito, Caucete",
+      "mes": 4,
+      "fecha": "Semana Santa",
+      "texto": "Miles de devotos llegan al santuario, muchos a pie o en bicicleta."
+    }
+  ],
   "mapa": {
     "consulta": "San Juan, Argentina",
     "rutas": [

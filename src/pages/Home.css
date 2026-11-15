@@ -1,0 +1,16 @@
+/* Fondo continuo debajo del hero: Historia, Mapa y Asistente no tienen fondo
+   propio y comparten este degradé con los colores de la marca. */
+.home {
+  background:
+    radial-gradient(ellipse 60% 22% at 100% 18%,
+      color-mix(in oklab, var(--vm-naranja) 16%, transparent), transparent 70%),
+    radial-gradient(ellipse 65% 22% at 0% 55%,
+      color-mix(in oklab, var(--vm-tierra) 14%, transparent), transparent 70%),
+    linear-gradient(
+      in oklab 180deg,
+      var(--vm-crema) 0%,
+      color-mix(in oklab, var(--vm-naranja) 12%, var(--vm-crema)) 35%,
+      var(--vm-crema-2) 65%,
+      color-mix(in oklab, var(--vm-tierra) 18%, var(--vm-crema)) 100%
+    );
+}

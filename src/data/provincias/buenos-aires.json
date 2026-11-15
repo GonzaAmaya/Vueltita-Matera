@@ -3,6 +3,18 @@
   "nombre": "Buenos Aires",
   "lema": "Playas atlánticas, sierras, pueblos de campo y la tradición gaucha a pocas horas de la capital.",
   "hero": "/provincias/buenos-aires/hero.webp",
+  "estilo": {
+    "silueta": "llanura",
+    "cielo": "#22406a",
+    "acento": "#3f6a2f",
+    "paleta": [
+      "#7a9a4a",
+      "#d8c06a",
+      "#4a7a3a",
+      "#b8c88a",
+      "#f0e8c8"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,29 @@
     ],
     "consejo": "En enero la Ruta 2 se congestiona: salí temprano o evitá los sábados de recambio."
   },
+  "eventos": [
+    {
+      "nombre": "Semana Santa en el Monte Calvario",
+      "lugar": "Tandil",
+      "mes": 4,
+      "fecha": "Semana Santa (marzo o abril)",
+      "texto": "El Vía Crucis sobre el cerro reúne a miles de personas y es el fin de semana más concurrido del año."
+    },
+    {
+      "nombre": "Festival Internacional de Cine",
+      "lugar": "Mar del Plata",
+      "mes": 11,
+      "fecha": "Noviembre",
+      "texto": "El único festival de cine de categoría A de Latinoamérica, con funciones en toda la ciudad."
+    },
+    {
+      "nombre": "Fiesta Nacional de la Tradición",
+      "lugar": "San Antonio de Areco",
+      "mes": 11,
+      "fecha": "Alrededor del 10 de noviembre",
+      "texto": "Desfile gaucho, jineteadas, peñas y platería criolla en el pueblo más tradicionalista de la provincia."
+    }
+  ],
   "mapa": {
     "consulta": "Provincia de Buenos Aires, Argentina",
     "rutas": [

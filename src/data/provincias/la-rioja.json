@@ -3,6 +3,18 @@
   "nombre": "La Rioja",
   "lema": "Cañones rojos, dinosaurios, lagunas de altura y la chaya en carnaval.",
   "hero": "/provincias/la-rioja/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#2b2d55",
+    "acento": "#9c3524",
+    "paleta": [
+      "#b8452e",
+      "#e08a4f",
+      "#7c2f2a",
+      "#cf6e4a",
+      "#f1c9a5"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "Talampaya se recorre solo con guía. Reservá la excursión y llevá sombrero y agua."
   },
+  "eventos": [
+    {
+      "nombre": "La Chaya",
+      "lugar": "La Rioja capital y toda la provincia",
+      "mes": 2,
+      "fecha": "Febrero (carnaval)",
+      "texto": "El carnaval riojano: albahaca, harina, agua y coplas al ritmo de la vidala."
+    },
+    {
+      "nombre": "Tinkunaco",
+      "lugar": "La Rioja capital",
+      "mes": 12,
+      "fecha": "31 de diciembre al 3 de enero",
+      "texto": "El encuentro entre San Nicolás y el Niño Alcalde, ritual que une tradición diaguita y cristiana."
+    }
+  ],
   "mapa": {
     "consulta": "La Rioja, Argentina",
     "rutas": [

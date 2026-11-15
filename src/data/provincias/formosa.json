@@ -3,6 +3,18 @@
   "nombre": "Formosa",
   "lema": "Bañados enormes, aves por todos lados y la tranquilidad del litoral norte.",
   "hero": "/provincias/formosa/hero.webp",
+  "estilo": {
+    "silueta": "llanura",
+    "cielo": "#22382a",
+    "acento": "#3a5a2a",
+    "paleta": [
+      "#5a8a3a",
+      "#d8c06a",
+      "#3a6a3a",
+      "#a8803a",
+      "#ecdfb0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "Llevá repelente, sombrero y protector solar. En el bañado las distancias son largas."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta de la Virgen del Carmen",
+      "lugar": "Formosa capital",
+      "mes": 7,
+      "fecha": "16 de julio",
+      "texto": "Procesión y celebraciones en honor de la patrona de la ciudad."
+    },
+    {
+      "nombre": "Fiesta Nacional del Pomelo",
+      "lugar": "Laguna Blanca",
+      "mes": 9,
+      "fecha": "Fin de invierno",
+      "texto": "Celebra la producción citrícola de la zona con espectáculos y feria."
+    }
+  ],
   "mapa": {
     "consulta": "Formosa, Argentina",
     "rutas": [

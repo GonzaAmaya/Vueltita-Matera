@@ -3,6 +3,18 @@
   "nombre": "Santiago del Estero",
   "lema": "La Madre de Ciudades: termas, chacarera y el quichua que todavía se habla en el monte.",
   "hero": "/provincias/santiago-del-estero/hero.webp",
+  "estilo": {
+    "silueta": "llanura",
+    "cielo": "#3a2a20",
+    "acento": "#87471f",
+    "paleta": [
+      "#c27a3a",
+      "#e3b866",
+      "#8a5a30",
+      "#b8a06a",
+      "#efdcb0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "En verano el calor es extremo: salí temprano o al atardecer y tomá mucha agua."
   },
+  "eventos": [
+    {
+      "nombre": "Festival Nacional de la Salamanca",
+      "lugar": "La Banda",
+      "mes": 2,
+      "fecha": "Verano",
+      "texto": "Chacarera y folklore santiagueño durante varias noches."
+    },
+    {
+      "nombre": "Marcha de los Bombos",
+      "lugar": "Santiago del Estero capital",
+      "mes": 7,
+      "fecha": "Alrededor del 25 de julio",
+      "texto": "Miles de bombos legüeros desfilan por el aniversario de la ciudad más antigua del país."
+    }
+  ],
   "mapa": {
     "consulta": "Santiago del Estero, Argentina",
     "rutas": [

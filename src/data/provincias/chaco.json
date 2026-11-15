@@ -3,6 +3,18 @@
   "nombre": "Chaco",
   "lema": "Ciudad de esculturas, monte nativo, meteoritos y la cultura de los pueblos qom, wichí y moqoit.",
   "hero": "/provincias/chaco/hero.webp",
+  "estilo": {
+    "silueta": "llanura",
+    "cielo": "#2a3020",
+    "acento": "#6a4a22",
+    "paleta": [
+      "#6a7a3a",
+      "#b8a05a",
+      "#4a5a2a",
+      "#a8703a",
+      "#e8dcb0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "Para El Impenetrable conviene ir con guía y vehículo alto: hay caminos de tierra."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta Nacional del Algodón",
+      "lugar": "Presidencia Roque Sáenz Peña",
+      "mes": 5,
+      "fecha": "Otoño, al cierre de la cosecha",
+      "texto": "Celebra el cultivo que marcó la historia de la provincia, con espectáculos y elección de reina."
+    },
+    {
+      "nombre": "Bienal Internacional de Escultura",
+      "lugar": "Resistencia",
+      "mes": 7,
+      "fecha": "Julio, cada dos años (años pares)",
+      "texto": "Escultores de todo el mundo trabajan a la vista del público en el Parque 2 de Febrero."
+    }
+  ],
   "mapa": {
     "consulta": "Chaco, Argentina",
     "rutas": [

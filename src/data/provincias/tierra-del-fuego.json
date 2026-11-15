@@ -3,6 +3,18 @@
   "nombre": "Tierra del Fuego",
   "lema": "La ciudad más austral, el Canal Beagle y montañas que caen al mar.",
   "hero": "/provincias/tierra-del-fuego/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#18263a",
+    "acento": "#2a4258",
+    "paleta": [
+      "#3a5a7a",
+      "#a8bcc8",
+      "#2a4a3a",
+      "#6a7a8a",
+      "#eef2f4"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "Aunque sea verano, el clima cambia en minutos. Abrigo, impermeable y calzado cómodo siempre."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta Nacional de la Noche Más Larga",
+      "lugar": "Ushuaia",
+      "mes": 6,
+      "fecha": "21 de junio",
+      "texto": "Celebra el solsticio de invierno con recitales y fuegos artificiales."
+    },
+    {
+      "nombre": "Marchablanca",
+      "lugar": "Ushuaia",
+      "mes": 8,
+      "fecha": "Agosto",
+      "texto": "Carrera de esquí de fondo multitudinaria por los valles fueguinos."
+    }
+  ],
   "mapa": {
     "consulta": "Tierra del Fuego, Argentina",
     "rutas": [

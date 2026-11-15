@@ -3,6 +3,18 @@
   "nombre": "Corrientes",
   "lema": "Los Esteros del Iberá, el chamamé y ríos enormes para pescar el dorado.",
   "hero": "/provincias/corrientes/hero.webp",
+  "estilo": {
+    "silueta": "agua",
+    "cielo": "#1f3a40",
+    "acento": "#2a5a4a",
+    "paleta": [
+      "#4a8a6a",
+      "#9ac08a",
+      "#2f6a7a",
+      "#c8b06a",
+      "#e8e8c8"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,36 @@
     ],
     "consejo": "Al Iberá se llega en parte por caminos de tierra. Consultá el estado si llovió."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta del Gauchito Gil",
+      "lugar": "Mercedes",
+      "mes": 1,
+      "fecha": "8 de enero",
+      "texto": "Miles de devotos llegan al santuario del santo popular más venerado del país."
+    },
+    {
+      "nombre": "Fiesta Nacional del Chamamé",
+      "lugar": "Corrientes capital",
+      "mes": 1,
+      "fecha": "Enero",
+      "texto": "Diez noches de chamamé en el anfiteatro Mario del Tránsito Cocomarola."
+    },
+    {
+      "nombre": "Carnaval de Corrientes",
+      "lugar": "Corsódromo Nolo Alías, capital",
+      "mes": 2,
+      "fecha": "Febrero",
+      "texto": "Comparsas con trajes de plumas y lentejuelas; la capital nacional del carnaval."
+    },
+    {
+      "nombre": "Fiesta Nacional del Dorado",
+      "lugar": "Paso de la Patria",
+      "mes": 8,
+      "fecha": "Agosto",
+      "texto": "Concurso de pesca del dorado con devolución, sobre el río Paraná."
+    }
+  ],
   "mapa": {
     "consulta": "Corrientes, Argentina",
     "rutas": [

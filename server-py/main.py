@@ -63,7 +63,7 @@ def armar_instrucciones(provincia: str) -> str:
     guia = PROVINCIAS.get(_slug(provincia))
     if guia:
         # Solo el contenido útil para responder; sin rutas de imágenes ni colores.
-        util = {k: guia[k] for k in ("nombre", "lema", "datos", "historia", "sabores", "cuando", "mapa") if k in guia}
+        util = {k: guia[k] for k in ("nombre", "lema", "datos", "historia", "sabores", "cuando", "eventos", "mapa") if k in guia}
         util["lugares"] = [
             {k: l[k] for k in ("nombre", "zona", "descripcion")} for l in guia.get("lugares", [])
         ]

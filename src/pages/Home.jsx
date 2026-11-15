@@ -8,6 +8,7 @@ import Asistente from "../components/Asistente.jsx";
 import Footer from "../components/Footer.jsx";
 import { useReveal } from "../hooks/useReveal.js";
 import { irASeccion } from "../utils/irASeccion.js";
+import "./Home.css";
 
 function Home() {
   const { hash } = useLocation();
@@ -41,7 +42,7 @@ function Home() {
   return (
     <>
       <Navbar />
-      <main>
+      <main className="home">
         <Hero />
         <Historia />
         <Mapa />

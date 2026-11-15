@@ -3,6 +3,18 @@
   "nombre": "Chubut",
   "lema": "Ballenas francas, pingüinos, té galés y bosques de alerces milenarios.",
   "hero": "/provincias/chubut/hero.webp",
+  "estilo": {
+    "silueta": "agua",
+    "cielo": "#1f3550",
+    "acento": "#2a5a7a",
+    "paleta": [
+      "#2f6a8a",
+      "#8ab8c8",
+      "#c9a86a",
+      "#8a7a5a",
+      "#ede4cc"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,29 @@
     ],
     "consejo": "Las distancias entre la costa y la cordillera son largas. Calculá unas 7 horas de Trelew a Esquel."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta del Desembarco Galés",
+      "lugar": "Puerto Madryn y Gaiman",
+      "mes": 7,
+      "fecha": "28 de julio",
+      "texto": "Recuerda la llegada de los colonos galeses en 1865, con actos, coros y té galés."
+    },
+    {
+      "nombre": "Temporada de ballena franca austral",
+      "lugar": "Península Valdés",
+      "mes": 9,
+      "fecha": "Junio a diciembre (pico en septiembre y octubre)",
+      "texto": "Avistajes embarcados desde Puerto Pirámides y desde la costa en El Doradillo."
+    },
+    {
+      "nombre": "Eisteddfod del Chubut",
+      "lugar": "Trelew",
+      "mes": 10,
+      "fecha": "Octubre",
+      "texto": "Certamen galés de poesía, música y canto coral que se celebra desde la época de la colonia."
+    }
+  ],
   "mapa": {
     "consulta": "Chubut, Argentina",
     "rutas": [

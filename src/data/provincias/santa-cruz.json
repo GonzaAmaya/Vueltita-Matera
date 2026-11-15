@@ -3,6 +3,18 @@
   "nombre": "Santa Cruz",
   "lema": "Glaciares que se derrumban, el Fitz Roy y la Patagonia más inmensa.",
   "hero": "/provincias/santa-cruz/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#1a2a40",
+    "acento": "#2a5570",
+    "paleta": [
+      "#5aa0c8",
+      "#b8dcea",
+      "#3a5a6a",
+      "#8a9aa0",
+      "#f2f7f8"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "El viento patagónico es muy fuerte. Llevá rompeviento y abrigo en capas en cualquier época."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta Nacional del Lago Argentino",
+      "lugar": "El Calafate",
+      "mes": 2,
+      "fecha": "Febrero",
+      "texto": "Coincide con el aniversario de El Calafate: recitales, jineteadas y cordero."
+    },
+    {
+      "nombre": "Fiesta Nacional del Trekking",
+      "lugar": "El Chaltén",
+      "mes": 2,
+      "fecha": "Febrero",
+      "texto": "Carreras de montaña, competencias y música en la capital nacional del trekking."
+    }
+  ],
   "mapa": {
     "consulta": "Santa Cruz, Argentina",
     "rutas": [

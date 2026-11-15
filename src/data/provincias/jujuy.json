@@ -3,6 +3,18 @@
   "nombre": "Jujuy",
   "lema": "Cerros de siete colores, pueblos de adobe y una quebrada que es Patrimonio de la Humanidad.",
   "hero": "/provincias/jujuy/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#23305e",
+    "acento": "#a8442a",
+    "paleta": [
+      "#c4623f",
+      "#e3a53b",
+      "#8c3b4a",
+      "#d98b6a",
+      "#f0d9b5"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,36 @@
     ],
     "consejo": "La quebrada supera los 2.500 metros y la puna los 3.500. Tomá agua, comé liviano y andá despacio el primer día."
   },
+  "eventos": [
+    {
+      "nombre": "Carnaval de la Quebrada",
+      "lugar": "Humahuaca, Tilcara y Purmamarca",
+      "mes": 2,
+      "fecha": "Febrero o marzo",
+      "texto": "Del desentierro al entierro del diablo: comparsas, coplas, harina y albahaca."
+    },
+    {
+      "nombre": "Día de la Pachamama",
+      "lugar": "Toda la provincia",
+      "mes": 8,
+      "fecha": "1 de agosto",
+      "texto": "Ofrendas a la Madre Tierra; durante todo agosto las comunidades le dan de comer a la tierra."
+    },
+    {
+      "nombre": "Fiesta Nacional de los Estudiantes",
+      "lugar": "San Salvador de Jujuy",
+      "mes": 9,
+      "fecha": "Septiembre",
+      "texto": "Desfile de carrozas construidas por los estudiantes y elección de la reina nacional."
+    },
+    {
+      "nombre": "Manca Fiesta",
+      "lugar": "La Quiaca",
+      "mes": 10,
+      "fecha": "Octubre",
+      "texto": "La fiesta de las ollas: comunidades de la Puna y Bolivia intercambian cerámica y productos."
+    }
+  ],
   "mapa": {
     "consulta": "Jujuy, Argentina",
     "rutas": [

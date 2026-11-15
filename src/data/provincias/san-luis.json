@@ -3,6 +3,18 @@
   "nombre": "San Luis",
   "lema": "Sierras, quebradas rojas, pueblos mineros y el microclima de Merlo.",
   "hero": "/provincias/san-luis/hero.webp",
+  "estilo": {
+    "silueta": "sierras",
+    "cielo": "#2a3a4a",
+    "acento": "#665130",
+    "paleta": [
+      "#8a6a3a",
+      "#c9b06a",
+      "#5a6a3a",
+      "#d8955a",
+      "#eedfb8"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "En Sierra de las Quijadas hace mucho calor al mediodía. Recorré temprano y con agua."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta del Santo Cristo de la Quebrada",
+      "lugar": "Villa de la Quebrada",
+      "mes": 5,
+      "fecha": "Principios de mayo",
+      "texto": "Una de las peregrinaciones más grandes de Cuyo, con el Vía Crucis en el cerro."
+    },
+    {
+      "nombre": "Aniversario de la ciudad de San Luis",
+      "lugar": "San Luis capital",
+      "mes": 8,
+      "fecha": "25 de agosto",
+      "texto": "Actos, desfile y espectáculos por la fundación de la ciudad."
+    }
+  ],
   "mapa": {
     "consulta": "San Luis, Argentina",
     "rutas": [

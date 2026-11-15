@@ -1,6 +1,5 @@
 .historia {
   padding-block: clamp(4rem, 9vw, 7rem) clamp(2rem, 4vw, 3rem);
-  background: linear-gradient(180deg, var(--vm-crema), var(--vm-crema-2));
 }
 
 .historia-intro {

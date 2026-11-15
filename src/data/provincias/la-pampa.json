@@ -3,6 +3,18 @@
   "nombre": "La Pampa",
   "lema": "Llanura, caldenes, ciervos en brama y cielos enormes.",
   "hero": "/provincias/la-pampa/hero.webp",
+  "estilo": {
+    "silueta": "llanura",
+    "cielo": "#3a3020",
+    "acento": "#6e5428",
+    "paleta": [
+      "#c8a050",
+      "#8a6a3a",
+      "#e0c880",
+      "#a07a40",
+      "#f0e2b8"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,15 @@
     ],
     "consejo": "Las distancias son largas y hay pocas estaciones de servicio en el oeste. Cargá combustible siempre que puedas."
   },
+  "eventos": [
+    {
+      "nombre": "Brama del ciervo colorado",
+      "lugar": "Reserva Provincial Parque Luro",
+      "mes": 3,
+      "fecha": "Marzo y abril",
+      "texto": "Los ciervos machos braman en celo y se pueden escuchar y ver al atardecer."
+    }
+  ],
   "mapa": {
     "consulta": "La Pampa, Argentina",
     "rutas": [

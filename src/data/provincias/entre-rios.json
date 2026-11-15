@@ -3,6 +3,18 @@
   "nombre": "Entre Ríos",
   "lema": "Palmares, playas de río, termas y el carnaval más grande del país.",
   "hero": "/provincias/entre-rios/hero.webp",
+  "estilo": {
+    "silueta": "agua",
+    "cielo": "#24384a",
+    "acento": "#5a4530",
+    "paleta": [
+      "#8a6a4a",
+      "#6a9a5a",
+      "#b8946a",
+      "#3a6a5a",
+      "#e8dcc0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "Los fines de semana largos las termas y Gualeguaychú se llenan: reservá con tiempo."
   },
+  "eventos": [
+    {
+      "nombre": "Carnaval del País",
+      "lugar": "Gualeguaychú",
+      "mes": 1,
+      "fecha": "Sábados de enero a principios de marzo",
+      "texto": "El carnaval más grande del país, con comparsas en el Corsódromo."
+    },
+    {
+      "nombre": "Fiesta Nacional de la Artesanía",
+      "lugar": "Colón",
+      "mes": 2,
+      "fecha": "Febrero",
+      "texto": "Cientos de artesanos de todo el país sobre la costa del río Uruguay."
+    }
+  ],
   "mapa": {
     "consulta": "Entre Ríos, Argentina",
     "rutas": [

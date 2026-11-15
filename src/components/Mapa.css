@@ -1,6 +1,5 @@
 .mapa-seccion {
   padding-block: clamp(2rem, 4vw, 3rem) clamp(4rem, 9vw, 7rem);
-  background: var(--vm-crema-2);
 }
 
 .mapa-grilla {

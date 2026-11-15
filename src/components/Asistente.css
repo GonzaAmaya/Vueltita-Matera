@@ -1,6 +1,5 @@
 .home-asistente {
   padding-block: clamp(4rem, 9vw, 7rem);
-  background: var(--vm-crema);
 }
 
 .home-asistente-intro {

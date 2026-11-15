@@ -3,6 +3,18 @@
   "nombre": "Salta",
   "lema": "Quebradas de colores, viñedos a más de 1.600 metros y una ciudad que se vive de peña en peña.",
   "hero": "/provincias/salta/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#2a2f5a",
+    "acento": "#963d29",
+    "paleta": [
+      "#b5533a",
+      "#d9a05b",
+      "#7a3e48",
+      "#c98a5e",
+      "#ead6b8"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,29 @@
     ],
     "consejo": "Salinas Grandes y la Ruta 51 superan los 3.400 metros. Llevá agua y abrigo, y andá despacio el primer día."
   },
+  "eventos": [
+    {
+      "nombre": "Serenata a Cafayate",
+      "lugar": "Cafayate",
+      "mes": 2,
+      "fecha": "Febrero o marzo",
+      "texto": "Tres noches de folklore entre viñedos de altura."
+    },
+    {
+      "nombre": "Guardia bajo las Estrellas",
+      "lugar": "Monumento a Güemes, Salta capital",
+      "mes": 6,
+      "fecha": "Noche del 16 de junio",
+      "texto": "Gauchos de toda la provincia hacen vigilia en homenaje al general Güemes."
+    },
+    {
+      "nombre": "Fiesta del Señor y la Virgen del Milagro",
+      "lugar": "Salta capital",
+      "mes": 9,
+      "fecha": "13 al 15 de septiembre",
+      "texto": "Peregrinos llegan a pie desde toda la provincia para la procesión del día 15."
+    }
+  ],
   "mapa": {
     "consulta": "Salta, Argentina",
     "rutas": [

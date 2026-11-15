@@ -3,6 +3,18 @@
   "nombre": "Córdoba",
   "lema": "Sierras, ríos de agua clara, estancias jesuíticas y fernet con coca.",
   "hero": "/provincias/cordoba/hero.webp",
+  "estilo": {
+    "silueta": "sierras",
+    "cielo": "#23305e",
+    "acento": "#3f5a35",
+    "paleta": [
+      "#6a8a5a",
+      "#a8a08a",
+      "#3a5a3a",
+      "#c8a46a",
+      "#ebe2c8"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,36 @@
     ],
     "consejo": "En verano llueve fuerte a la tarde y los ríos pueden crecer de golpe. Salí del agua si oscurece el cielo."
   },
+  "eventos": [
+    {
+      "nombre": "Festival Nacional de Folklore",
+      "lugar": "Cosquín",
+      "mes": 1,
+      "fecha": "Nueve noches de fines de enero",
+      "texto": "El festival de folklore más importante del país, en la Plaza Próspero Molina."
+    },
+    {
+      "nombre": "Festival de Doma y Folklore",
+      "lugar": "Jesús María",
+      "mes": 1,
+      "fecha": "Enero",
+      "texto": "Jineteadas y música folklórica en el anfiteatro José Hernández."
+    },
+    {
+      "nombre": "Cosquín Rock",
+      "lugar": "Santa María de Punilla",
+      "mes": 2,
+      "fecha": "Febrero",
+      "texto": "Dos días de rock nacional e internacional en el aeródromo, a orillas del río."
+    },
+    {
+      "nombre": "Fiesta Nacional de la Cerveza",
+      "lugar": "Villa General Belgrano",
+      "mes": 10,
+      "fecha": "Octubre",
+      "texto": "El Oktoberfest argentino, con cerveza artesanal, desfiles y bandas típicas centroeuropeas."
+    }
+  ],
   "mapa": {
     "consulta": "Córdoba, Argentina",
     "rutas": [

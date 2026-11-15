@@ -3,6 +3,18 @@
   "nombre": "Catamarca",
   "lema": "Volcanes de más de 6.000 metros, dunas, termas y la puna más solitaria del país.",
   "hero": "/provincias/catamarca/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#2b2a4a",
+    "acento": "#874629",
+    "paleta": [
+      "#b0603a",
+      "#d8b27a",
+      "#6e4a3a",
+      "#c4875a",
+      "#eedcc0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "La Ruta de los Seismiles y Antofagasta tienen pocos servicios. Cargá combustible, llevá agua y avisá tu recorrido."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta de la Virgen del Valle",
+      "lugar": "San Fernando del Valle de Catamarca",
+      "mes": 4,
+      "fecha": "Abril (después de Pascua) y 8 de diciembre",
+      "texto": "Dos grandes peregrinaciones al santuario de la patrona del Noroeste argentino."
+    },
+    {
+      "nombre": "Fiesta Nacional e Internacional del Poncho",
+      "lugar": "San Fernando del Valle de Catamarca",
+      "mes": 7,
+      "fecha": "Julio, en vacaciones de invierno",
+      "texto": "Tejedores de toda la provincia, artesanías, gastronomía y escenario con grandes nombres del folklore."
+    }
+  ],
   "mapa": {
     "consulta": "Catamarca, Argentina",
     "rutas": [

@@ -3,6 +3,18 @@
   "nombre": "Mendoza",
   "lema": "El Aconcagua, la capital del vino argentino y montañas para todas las estaciones.",
   "hero": "/provincias/mendoza/hero.webp",
+  "estilo": {
+    "silueta": "cordillera",
+    "cielo": "#23305e",
+    "acento": "#6b2a3a",
+    "paleta": [
+      "#8c3b4a",
+      "#8a9a4a",
+      "#c9a35a",
+      "#a85a6a",
+      "#ecd9b0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,22 @@
     ],
     "consejo": "En invierno el Paso Cristo Redentor a Chile puede cerrarse por nieve. Consultá antes de viajar."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta Nacional de la Vendimia",
+      "lugar": "Mendoza capital",
+      "mes": 3,
+      "fecha": "Fines de febrero y principios de marzo",
+      "texto": "Bendición de los frutos, carruseles y el acto central en el teatro griego Frank Romero Day."
+    },
+    {
+      "nombre": "Día Mundial del Malbec",
+      "lugar": "Bodegas de toda la provincia",
+      "mes": 4,
+      "fecha": "17 de abril",
+      "texto": "Degustaciones, música y propuestas especiales en las bodegas."
+    }
+  ],
   "mapa": {
     "consulta": "Mendoza, Argentina",
     "rutas": [

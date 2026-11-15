@@ -3,6 +3,18 @@
   "nombre": "Santa Fe",
   "lema": "La cuna de la bandera, la Constitución y una costa del Paraná con islas para perderse.",
   "hero": "/provincias/santa-fe/hero.webp",
+  "estilo": {
+    "silueta": "agua",
+    "cielo": "#1f3550",
+    "acento": "#2f5470",
+    "paleta": [
+      "#3a6a8a",
+      "#8a6a4a",
+      "#8ab06a",
+      "#c8a870",
+      "#ecdfc4"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,29 @@
     ],
     "consejo": "Para ir a las islas usá lanchas habilitadas desde las estaciones fluviales."
   },
+  "eventos": [
+    {
+      "nombre": "Día de la Bandera",
+      "lugar": "Monumento a la Bandera, Rosario",
+      "mes": 6,
+      "fecha": "20 de junio",
+      "texto": "Acto central y desfile en el lugar donde Belgrano izó la bandera por primera vez."
+    },
+    {
+      "nombre": "Fiesta Nacional de la Agricultura",
+      "lugar": "Esperanza",
+      "mes": 9,
+      "fecha": "Septiembre",
+      "texto": "Celebra a la primera colonia agrícola organizada del país."
+    },
+    {
+      "nombre": "Encuentro y Fiesta Nacional de Colectividades",
+      "lugar": "Parque Nacional a la Bandera, Rosario",
+      "mes": 11,
+      "fecha": "Noviembre",
+      "texto": "Diez días de comidas, danzas y música de las colectividades de inmigrantes."
+    }
+  ],
   "mapa": {
     "consulta": "Santa Fe, Argentina",
     "rutas": [

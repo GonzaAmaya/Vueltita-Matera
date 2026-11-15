@@ -3,6 +3,18 @@
   "nombre": "Tucumán",
   "lema": "El Jardín de la República: la casa donde nació la Argentina, selvas de montaña y valles a más de 2.000 metros.",
   "hero": "/provincias/tucuman/hero.webp",
+  "estilo": {
+    "silueta": "sierras",
+    "cielo": "#1f3a3a",
+    "acento": "#2f5d3a",
+    "paleta": [
+      "#4f7a3a",
+      "#9cb85a",
+      "#2f5a3a",
+      "#c9a35a",
+      "#e8dfb0"
+    ]
+  },
   "datos": [
     {
       "etiqueta": "Capital",
@@ -133,6 +145,29 @@
     ],
     "consejo": "La subida a Tafí por la Quebrada de los Sosa tiene curvas y neblina. Manejá de día y con calma."
   },
+  "eventos": [
+    {
+      "nombre": "Fiesta Nacional de la Pachamama",
+      "lugar": "Amaicha del Valle",
+      "mes": 2,
+      "fecha": "Febrero (carnaval)",
+      "texto": "La comunidad indígena de Amaicha elige a la Pachamama y celebra con música y ofrendas."
+    },
+    {
+      "nombre": "Fiesta Nacional del Queso",
+      "lugar": "Tafí del Valle",
+      "mes": 2,
+      "fecha": "Febrero",
+      "texto": "Quesos de los Valles Calchaquíes, feria y folklore."
+    },
+    {
+      "nombre": "Día de la Independencia",
+      "lugar": "Casa Histórica, San Miguel de Tucumán",
+      "mes": 7,
+      "fecha": "9 de julio",
+      "texto": "Acto central y vigilia frente a la casa donde se declaró la independencia en 1816."
+    }
+  ],
   "mapa": {
     "consulta": "Tucumán, Argentina",
     "rutas": [

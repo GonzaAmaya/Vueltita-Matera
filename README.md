@@ -44,6 +44,13 @@ mismo formato (el de `salta.json`):
 
 - `datos`: 4 datos rápidos · `historia.hitos`: 5 · `lugares`: 5 · `sabores.items`: 5
 - `cuando.epocas`: 3 · `mapa.rutas`: 3
+- `eventos`: fiestas del año, ordenadas por `mes` (1–12); `fecha` es texto libre
+  ("Febrero", "Semana Santa") porque muchas cambian de día cada año
+- `estilo`: la identidad visual de la provincia
+  - `silueta`: forma del borde del hero (`cordillera`, `sierras`, `llanura`, `agua` o `ciudad`)
+  - `cielo`: color oscuro de fondo (hero sin foto y sección del asistente)
+  - `acento`: franja de datos, fechas y detalles; tiene que contrastar con texto blanco
+  - `paleta`: 5 colores de los estratos del hero, de arriba hacia abajo
 
 Respetá esas cantidades: la grilla de lugares está diseñada para 5.
 El `slug` tiene que coincidir con el de `mapaPaths.js`. El sitio y el asistente
@@ -52,5 +59,5 @@ toman los cambios solos, sin tocar código.
 ### Imágenes
 
 Cada JSON indica sus rutas (`hero` y `lugares[].imagen`), por ejemplo
-`public/provincias/mendoza/hero.webp`. Mientras no existan, se muestra el color de
-`lugares[].color` como fondo.
+`public/provincias/mendoza/hero.webp`. Mientras no existan, el hero muestra un
+degradé con los colores de `estilo` y cada lugar el color de `lugares[].color`.
